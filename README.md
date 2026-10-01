@@ -160,14 +160,20 @@ The system could use Bluetooth or Wi-Fi to transmit sensor data from the ESP32 d
 Roles
 
 Priyanka: networking 
+
 Anaika: writing and research 
+
 Shashwat: setup & algorithm design 
+
 Liz: setup & software 
+
 
 References
 
-ECE 535/635 Course Projects slideshow, Fall 2026: slide 6, “Time Synchronization Via Sensing”; slide 17, repository requirements and submission timeline.
 “HAEST: Harvesting Ambient Events to Synchronize Time across Heterogeneous IoT Devices.” 
+
 Lex Fridman et al., “Automated Synchronization of Driving Data Using Vibration and Steering Events,” Pattern Recognition Letters, vol. 75, pp. 9–15, 2016. Starting point for studying shared-event and cross-correlation methods; published performance is not a target or result for our prototype.
+
 “Exploiting Smartphone Peripherals for Precise Time Synchronization,” 2019. Background on peripheral-based synchronization. The authors’ implementation repository is a reference for study, not an assumed drop-in ESP32 implementation.
+
 
