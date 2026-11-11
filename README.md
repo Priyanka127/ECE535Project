@@ -1,179 +1,71 @@
+Project Outline: Privacy and Behavioral Analysis of Mixed-Reality Sensor Data
 1. Motivation
-
-Many embedded devices work together as part of a larger network, such as smart homes, autonomous vehicles, and agricultural monitoring systems. For these systems to work correctly, the devices need to have accurate and synchronized clocks.
-
-Traditional time synchronization methods can require additional communication and processing resources, which can be difficult for resource-constrained embedded devices. However, many embedded devices already collect sensor data and periodically send that data to a central gateway.
-
-This project explores whether timestamped sensor data can be used to synchronize the clocks of multiple embedded devices without requiring a dedicated time synchronization service. By analyzing when the same or related physical events are detected by different devices, the Raspberry Pi can estimate differences in clock timing and help synchronize the devices.
-
+Head-mounted mixed-reality devices can place interactive 3D content in a person’s physical surroundings. Their sensors may collect detailed information—such as body motion, gaze, hand joints, and facial expressions—that can identify users or reveal behavioral patterns, even without explicit identifiers.
+This project will examine what privacy-sensitive information can be inferred from mixed-reality sensor data and how existing research evaluates those risks.
 2. Design Goals
-
-The main goal is to develop a lightweight time synchronization protocol using sensor data collected from two ESP32 devices.
-
-Specific goals:
-Develop two embedded sensor nodes using ESP32 Things.
-Collect sensor measurements and attach timestamps to the measurements.
-Send timestamped sensor data from the ESP32 devices to a Raspberry Pi.
-Measure and characterize the communication/network delay between the ESP32 devices and Raspberry Pi.
-Determine the relative clock offset between the two ESP32 devices.
-Estimate the relative clock drift between the devices over time.
-Develop a synchronization algorithm that uses the sensor data to improve clock alignment.
-Evaluate the accuracy and reliability of the proposed synchronization method.
-Keep the system lightweight enough for resource-constrained embedded devices.
-
-
+Find relevant datasets containing pose, gaze, or gesture data.
+Preprocess the selected data into a consistent format for analysis.
+Analyze privacy and behavioral inferences using methods from existing literature.
+Document dataset limitations, assumptions, and privacy considerations.
+Use Python for data processing and analysis; use Unity if visualization or a mixed-reality demonstration is needed.
 3. Deliverables
-Hardware Deliverables
-Two functioning ESP32 sensor nodes.
-Sensors connected to each ESP32.
-Raspberry Pi gateway capable of receiving data from both devices.
-Working wireless communication between the ESP32 devices and Raspberry Pi.
-Software Deliverables
-ESP32 firmware for:
-Reading sensor data
-Timestamping measurements
-Sending data to the Raspberry Pi
-Raspberry Pi software for:
-Receiving and storing sensor data
-Comparing timestamps
-Calculating network delay
-Estimating clock offset and drift
-Applying the synchronization algorithm
-Data visualization/plots showing:
-Network delay
-Clock offset
-Clock drift
-Synchronization accuracy over time
-
-Final Deliverable
-
-A complete working demonstration showing two ESP32 devices synchronizing their clocks using timestamped sensor data processed by a Raspberry Pi.
-
-
-        ┌──────────────────────┐
-        │      ESP32 #1        │
-        │                      │
-        │  Sensor              │
-        │     ↓                │
-        │  Timestamp Data      │
-        └──────────┬───────────┘
-                   │
-                   │ Wireless Data
-                   ↓
-            ┌───────────────┐
-            │               │
-            │  Raspberry Pi │
-            │    Gateway    │
-            │               │
-            │ ┌───────────┐ │
-            │ │ Data      │ │
-            │ │ Collection│ │
-            │ └─────┬─────┘ │
-            │       ↓       │
-            │ ┌───────────┐ │
-            │ │ Synchron- │ │
-            │ │ ization   │ │
-            │ │ Algorithm │ │
-            │ └───────────┘ │
-            │               │
-            └───────┬───────┘
-                    ↑
-                    │ Wireless Data
-                    │
-        ┌───────────┴──────────┐
-        │      ESP32 #2        │
-        │                      │
-        │  Sensor              │
-        │     ↓                │
-        │  Timestamp Data      │
-        └──────────────────────┘
-
-
-
-Main System Components
-
-ESP32 Sensor Nodes
-
-Collect physical sensor measurements.
-Timestamp each measurement using their local clocks.
-Transmit timestamped measurements to the Raspberry Pi.
-
-Raspberry Pi Gateway
-
-Receives data from both ESP32 devices.
-Records when packets are received.
-Analyzes timestamps from the two devices.
-Estimates communication delay.
-Estimates clock offset and clock drift.
-Calculates synchronization corrections.
-
-Synchronization Algorithm
-
-Compares timestamps from the two devices.
-Identifies differences between their clocks.
-Uses repeated measurements to estimate clock behavior.
-Determines how much one device's clock differs from the other.
-
-
-| Component                 | Purpose                                       |
-| ------------------------- | --------------------------------------------- |
-| 2× ESP32 Things           | Embedded sensor nodes                         |
-| Raspberry Pi              | Central gateway and synchronization processor |
-| Sensors                   | Generate physical events/data                 |
-| Wi-Fi/Bluetooth           | Communication between ESP32s and Raspberry Pi |
-| Breadboards/jumper wires  | Hardware prototyping                          |
-| USB cables/power supplies | Programming and powering devices              |
-
-
+A review of relevant datasets and their access conditions.
+A documented preprocessing workflow.
+A privacy and behavior analysis based on the selected data and literature.
+A summary of findings, limitations, and recommendations.
+Optional Unity visualization or demonstration of the data-analysis workflow.
+4. System Blocks
+Dataset discovery: Identify candidate pose, gaze, and gesture datasets.
+Data review: Record available sensor signals, formats, permissions, and limitations.
+Preprocessing: Clean, normalize, and organize selected data.
+Analysis: Apply literature-informed methods to assess identifiability and behavioral inference.
+Visualization and reporting: Present results, caveats, and recommendations.
+5. Hardware and Software Requirements
+Hardware
+Computer capable of running Python analysis tools.
+Optional mixed-reality headset and compatible computer if the team collects new data or builds a live demonstration.
+New data collection should only proceed if the team has the necessary permissions and participant safeguards.
 Software
-ESP32
-C/C++ or Arduino framework
-Sensor drivers
-Wireless communication
-Timestamp generation
-Data packet formatting
-Raspberry Pi
-Python or C/C++
-Data collection
-Timestamp analysis
-Synchronization algorithm
-Data logging
-Visualization using tools such as MATLAB or Python
-Communication
+Python for preprocessing and analysis.
+Unity for an optional visualization or mixed-reality demonstration.
+Version control and shared project storage for code, notes, and documentation.
+6. Team Members and Lead Responsibilities
+Use names in place of “Member 1–4.” Each person leads the assigned area and supports the other work as needed.
+Team member
+Lead role(s)
+Main responsibilities
+Liz
+Setup
+Organize the project environment, repositories, dependencies, and shared workflow.
+Anaika 
+Software; algorithm design
+Build preprocessing and analysis code; implement and document analysis methods.
+Priyanka + Liz
+Networking; research
+Coordinate dataset access and technical dependencies; find and summarize relevant literature.
+Shashwat
+Writing
+Maintain the report, integrate team findings, and prepare the final presentation or documentation.
 
-The system could use Bluetooth or Wi-Fi to transmit sensor data from the ESP32 devices to the Raspberry Pi.
+7. Project Timeline
+Phase
+Work
+1. Planning
+Confirm scope, assign leads, and define dataset selection criteria.
+2. Dataset and literature review
+Identify candidate datasets and relevant privacy/behavior analysis methods.
+3. Setup and preprocessing
+Configure tools, select data, and build the preprocessing workflow.
+4. Analysis
+Run the planned analyses and document results and limitations.
+5. Reporting
+Prepare the final report, visualizations, and optional demonstration.
 
-
-| Week   | Tasks                                                                          |
-| ------ | ------------------------------------------------------------------------------ |
-| **1**  | Research time synchronization, review references, finalize system architecture |
-| **2**  | Select sensors and communication method; set up ESP32s and Raspberry Pi        |
-| **3**  | Develop ESP32 sensor-reading and timestamping firmware                         |
-| **4**  | Implement wireless communication and Raspberry Pi data collection              |
-| **5**  | Begin collecting timestamped sensor data; test communication reliability       |
-| **6**  | Measure and characterize network delay                                         |
-| **7**  | Develop clock offset and clock drift estimation                                |
-| **8**  | Implement the complete synchronization algorithm                               |
-| **9**  | Test system under different conditions and analyze accuracy                    |
-| **10** | Finalize system, create graphs/results, documentation, and presentation        |
-
-Roles
-
-Priyanka: networking 
-
-Anaika: writing and research 
-
-Shashwat: setup & algorithm design 
-
-Liz: setup & software 
-
-
-References
-
-“HAEST: Harvesting Ambient Events to Synchronize Time across Heterogeneous IoT Devices.” 
-
-Lex Fridman et al., “Automated Synchronization of Driving Data Using Vibration and Steering Events,” Pattern Recognition Letters, vol. 75, pp. 9–15, 2016. Starting point for studying shared-event and cross-correlation methods; published performance is not a target or result for our prototype.
-
-“Exploiting Smartphone Peripherals for Precise Time Synchronization,” 2019. Background on peripheral-based synchronization. The authors’ implementation repository is a reference for study, not an assumed drop-in ESP32 implementation.
+8. References
+References listed in the project materials:
+MURMR: A Multimodal Sensing Framework for Automated Group Behavior Analysis in Mixed Reality (2026)
+BehaVR: User Identification Based on VR Sensor Data (2023)
+Understanding User Identification in Virtual Reality Through Behavioral Biometrics and the Effect of Body Normalization (2021)
+Personal Identifiability of User Tracking Data During Observation of 360-degree VR Video (2020)
 
 
