@@ -1,0 +1,51 @@
+ECE 535: full-body dataset addition
+Checked and added: November 18, 2026
+
+Selected dataset: UTD Multimodal Human Action Dataset (UTD-MHAD)
+Creators: Chen Chen, Roozbeh Jafari, Nasser Kehtarnavaz, UT Dallas.
+
+Official information:
+https://personal.utdallas.edu/~kehtar/UTD-MHAD.html
+Official skeleton download:
+https://personal.utdallas.edu/~kehtar/UTD-MAD/Skeleton.zip
+Official joint-order/visualization examples:
+https://personal.utdallas.edu/~kehtar/UTD-MAD/Sample_Code.zip
+Original paper:
+https://jafari.tamu.edu/wp-content/uploads/2019/06/ICIP2015-Chen-Final.pdf
+
+What was added
+- 861 distinct numerical recordings from 8 participants, 27 actions, and 20 skeleton joints.
+- Joints include head, shoulders, elbows, wrists, hands, spine, pelvis, hips, knees, ankles and feet.
+- These are 3D coordinate sequences. RGB videos, depth images and IMU data are separate downloads; they were not needed or downloaded for this study.
+- MATLAB variable d_skel has shape 20 joints x 3 coordinates x number of frames.
+- Actual archive inspection found 58,299 frames; recordings contain 41 to 125 frames.
+- The 3 absent recordings are a8_s1_t4, a23_s6_t4 and a27_s8_t4.
+- Archive SHA256: f029ea1d4e4c330b2c61307b6d532b34c3920bcac1f4c22c7827f406e2c7ac00
+
+How to use your notebook
+Open the existing ECE535_Head_Movement_Analysis.ipynb in Colab.
+Sections 11-16 contain the full-body study and run independently of sections 1-10.
+Start with section 11 and run the code cells in order. It downloads the approximately 14 MiB archive automatically; you do not need to upload the older 207 MB head-movement CSV for these sections.
+Saved preliminary outputs are already visible without rerunning.
+The filename is retained so the existing Colab link remains valid; the notebook title now includes head and full-body movement.
+
+What the experiment asks
+Can full-body skeleton measurements recognize one of eight previously enrolled participants in a different recording?
+The primary split trains on trials 1-3 and tests on trial 4. Entire recordings stay together.
+A separate exploratory split trains on actions 1-21 and tests on actions 22-27.
+Head-relative, full-body pose/movement and full-body movement-only features use identical participants and splits.
+Chance is 12.5% among eight identities. These scores are recording-level, not five-second-window-level.
+
+Important interpretation
+This dataset was designed for action recognition using a fixed laboratory Kinect camera, not for headset-based privacy research. We use it for a new, limited skeleton-identification pilot.
+Pose and body proportions can carry identity information. A post-hoc bone-length diagnostic is included to avoid attributing all accuracy to movement style.
+Do not combine these participants with the Roma Tre people. Do not compare raw percentages across the two datasets as evidence that full-body sensing is superior: the cohorts, sensors, actions, participant counts and prediction units differ.
+No different-day, different-device or unseen-person performance has been established. The exploratory test set should not be reused for tuning and then presented as untouched validation.
+Coordinate units are not asserted from the release documentation. Features are centered on the pelvis and normalized by torso length; movement changes are measured per frame. The nominal source capture rate is approximately 30 fps.
+
+Access and attribution
+The original paper describes a public-domain release and IRB-approved consent; the landing page does not assign a named Creative Commons license. Preserve the source and attribution. No account registration or license-signing was required for the skeleton archive.
+Cite: C. Chen, R. Jafari, and N. Kehtarnavaz, "UTD-MHAD: A Multimodal Dataset for Human Action Recognition Utilizing a Depth Camera and a Wearable Inertial Sensor," IEEE International Conference on Image Processing (ICIP), 2015.
+
+Why this dataset
+Its repeated participant-labelled trials, simple skeleton format and small separate modality download make a practical addition. EgoBody is a more direct headset-related option but requires registration, a signed license and more preparation. CMU mocap warns that one person may have multiple subject IDs, complicating identification evaluation.
