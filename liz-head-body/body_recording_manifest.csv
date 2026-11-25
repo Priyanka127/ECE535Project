@@ -1,0 +1,862 @@
+file_id,action_id,action,subject_id,trial,frames,finite,zero_joint_frames,torso_scale_dataset_units,retained
+a10_s1_t1_skeleton.mat,10,Draw circle counterclockwise,S1,1,76,True,0,0.41729117056615245,True
+a10_s1_t2_skeleton.mat,10,Draw circle counterclockwise,S1,2,73,True,0,0.4168908892784531,True
+a10_s1_t3_skeleton.mat,10,Draw circle counterclockwise,S1,3,74,True,0,0.4159271941897329,True
+a10_s1_t4_skeleton.mat,10,Draw circle counterclockwise,S1,4,73,True,0,0.41699725606344745,True
+a10_s2_t1_skeleton.mat,10,Draw circle counterclockwise,S2,1,67,True,0,0.4121902838999574,True
+a10_s2_t2_skeleton.mat,10,Draw circle counterclockwise,S2,2,68,True,0,0.4129870949283297,True
+a10_s2_t3_skeleton.mat,10,Draw circle counterclockwise,S2,3,64,True,0,0.41716663504953955,True
+a10_s2_t4_skeleton.mat,10,Draw circle counterclockwise,S2,4,67,True,0,0.4170649690729411,True
+a10_s3_t1_skeleton.mat,10,Draw circle counterclockwise,S3,1,80,True,0,0.3858838632720257,True
+a10_s3_t2_skeleton.mat,10,Draw circle counterclockwise,S3,2,80,True,0,0.38793981721278964,True
+a10_s3_t3_skeleton.mat,10,Draw circle counterclockwise,S3,3,83,True,0,0.390214556040293,True
+a10_s3_t4_skeleton.mat,10,Draw circle counterclockwise,S3,4,82,True,0,0.3898206647772402,True
+a10_s4_t1_skeleton.mat,10,Draw circle counterclockwise,S4,1,67,True,0,0.3999891252946949,True
+a10_s4_t2_skeleton.mat,10,Draw circle counterclockwise,S4,2,65,True,0,0.39606062809393133,True
+a10_s4_t3_skeleton.mat,10,Draw circle counterclockwise,S4,3,67,True,0,0.3938041886083209,True
+a10_s4_t4_skeleton.mat,10,Draw circle counterclockwise,S4,4,65,True,0,0.39608933985859185,True
+a10_s5_t1_skeleton.mat,10,Draw circle counterclockwise,S5,1,67,True,0,0.4170037985417286,True
+a10_s5_t2_skeleton.mat,10,Draw circle counterclockwise,S5,2,82,True,0,0.41596111239857136,True
+a10_s5_t3_skeleton.mat,10,Draw circle counterclockwise,S5,3,65,True,0,0.415949942248375,True
+a10_s5_t4_skeleton.mat,10,Draw circle counterclockwise,S5,4,74,True,0,0.4165687644550048,True
+a10_s6_t1_skeleton.mat,10,Draw circle counterclockwise,S6,1,95,True,0,0.4581604924446006,True
+a10_s6_t2_skeleton.mat,10,Draw circle counterclockwise,S6,2,96,True,0,0.45797245227992384,True
+a10_s6_t3_skeleton.mat,10,Draw circle counterclockwise,S6,3,88,True,0,0.4578269810112437,True
+a10_s6_t4_skeleton.mat,10,Draw circle counterclockwise,S6,4,98,True,0,0.45893471600016406,True
+a10_s7_t1_skeleton.mat,10,Draw circle counterclockwise,S7,1,74,True,0,0.3861528772391031,True
+a10_s7_t2_skeleton.mat,10,Draw circle counterclockwise,S7,2,65,True,0,0.38971684626015546,True
+a10_s7_t3_skeleton.mat,10,Draw circle counterclockwise,S7,3,71,True,0,0.3870155883383306,True
+a10_s7_t4_skeleton.mat,10,Draw circle counterclockwise,S7,4,68,True,0,0.38972521110399616,True
+a10_s8_t1_skeleton.mat,10,Draw circle counterclockwise,S8,1,80,True,0,0.4051212198722586,True
+a10_s8_t2_skeleton.mat,10,Draw circle counterclockwise,S8,2,72,True,0,0.40934886371761003,True
+a10_s8_t3_skeleton.mat,10,Draw circle counterclockwise,S8,3,76,True,0,0.4092913761235963,True
+a10_s8_t4_skeleton.mat,10,Draw circle counterclockwise,S8,4,64,True,0,0.40692134159678345,True
+a11_s1_t1_skeleton.mat,11,Draw triangle,S1,1,66,True,0,0.41535186695387266,True
+a11_s1_t2_skeleton.mat,11,Draw triangle,S1,2,70,True,0,0.4144694179936761,True
+a11_s1_t3_skeleton.mat,11,Draw triangle,S1,3,71,True,0,0.4154814138460034,True
+a11_s1_t4_skeleton.mat,11,Draw triangle,S1,4,69,True,0,0.4150999092513995,True
+a11_s2_t1_skeleton.mat,11,Draw triangle,S2,1,68,True,0,0.4114206910044602,True
+a11_s2_t2_skeleton.mat,11,Draw triangle,S2,2,65,True,0,0.4118072561038347,True
+a11_s2_t3_skeleton.mat,11,Draw triangle,S2,3,61,True,0,0.4160616901491715,True
+a11_s2_t4_skeleton.mat,11,Draw triangle,S2,4,70,True,0,0.41428233758125016,True
+a11_s3_t1_skeleton.mat,11,Draw triangle,S3,1,73,True,0,0.38372203367080376,True
+a11_s3_t2_skeleton.mat,11,Draw triangle,S3,2,70,True,0,0.3886113309913529,True
+a11_s3_t3_skeleton.mat,11,Draw triangle,S3,3,78,True,0,0.38945344914895375,True
+a11_s3_t4_skeleton.mat,11,Draw triangle,S3,4,78,True,0,0.39212583111196025,True
+a11_s4_t1_skeleton.mat,11,Draw triangle,S4,1,71,True,0,0.38739552381739895,True
+a11_s4_t2_skeleton.mat,11,Draw triangle,S4,2,75,True,0,0.38575687708054085,True
+a11_s4_t3_skeleton.mat,11,Draw triangle,S4,3,75,True,0,0.3928183886086545,True
+a11_s4_t4_skeleton.mat,11,Draw triangle,S4,4,74,True,0,0.39161431038412853,True
+a11_s5_t1_skeleton.mat,11,Draw triangle,S5,1,77,True,0,0.41549925099063,True
+a11_s5_t2_skeleton.mat,11,Draw triangle,S5,2,77,True,0,0.4159983520769143,True
+a11_s5_t3_skeleton.mat,11,Draw triangle,S5,3,78,True,0,0.41808490857787994,True
+a11_s5_t4_skeleton.mat,11,Draw triangle,S5,4,75,True,0,0.4154413073095763,True
+a11_s6_t1_skeleton.mat,11,Draw triangle,S6,1,87,True,0,0.45769244005219767,True
+a11_s6_t2_skeleton.mat,11,Draw triangle,S6,2,98,True,0,0.4625771354282062,True
+a11_s6_t3_skeleton.mat,11,Draw triangle,S6,3,101,True,0,0.46042193150736055,True
+a11_s6_t4_skeleton.mat,11,Draw triangle,S6,4,106,True,0,0.4645541323585462,True
+a11_s7_t1_skeleton.mat,11,Draw triangle,S7,1,82,True,0,0.38705125719656724,True
+a11_s7_t2_skeleton.mat,11,Draw triangle,S7,2,81,True,0,0.39136335079172596,True
+a11_s7_t3_skeleton.mat,11,Draw triangle,S7,3,77,True,0,0.3896121329534665,True
+a11_s7_t4_skeleton.mat,11,Draw triangle,S7,4,78,True,0,0.3875887905445111,True
+a11_s8_t1_skeleton.mat,11,Draw triangle,S8,1,87,True,0,0.40815604645339004,True
+a11_s8_t2_skeleton.mat,11,Draw triangle,S8,2,74,True,0,0.40783189546893295,True
+a11_s8_t3_skeleton.mat,11,Draw triangle,S8,3,75,True,0,0.4005558956840872,True
+a11_s8_t4_skeleton.mat,11,Draw triangle,S8,4,77,True,0,0.4074785144693806,True
+a12_s1_t1_skeleton.mat,12,Bowling,S1,1,78,True,0,0.40350744634536373,True
+a12_s1_t2_skeleton.mat,12,Bowling,S1,2,80,True,0,0.400334935917252,True
+a12_s1_t3_skeleton.mat,12,Bowling,S1,3,70,True,0,0.39771813139138423,True
+a12_s1_t4_skeleton.mat,12,Bowling,S1,4,72,True,0,0.4085076855101043,True
+a12_s2_t1_skeleton.mat,12,Bowling,S2,1,76,True,0,0.40617468241340404,True
+a12_s2_t2_skeleton.mat,12,Bowling,S2,2,74,True,0,0.40857884412242873,True
+a12_s2_t3_skeleton.mat,12,Bowling,S2,3,71,True,0,0.404191123422907,True
+a12_s2_t4_skeleton.mat,12,Bowling,S2,4,69,True,0,0.40814788430251825,True
+a12_s3_t1_skeleton.mat,12,Bowling,S3,1,83,True,0,0.3715963802029025,True
+a12_s3_t2_skeleton.mat,12,Bowling,S3,2,101,True,0,0.37374887397787776,True
+a12_s3_t3_skeleton.mat,12,Bowling,S3,3,93,True,0,0.36743882623647395,True
+a12_s3_t4_skeleton.mat,12,Bowling,S3,4,88,True,0,0.3748743904717613,True
+a12_s4_t1_skeleton.mat,12,Bowling,S4,1,81,True,0,0.39914588115644795,True
+a12_s4_t2_skeleton.mat,12,Bowling,S4,2,73,True,0,0.39665739409146633,True
+a12_s4_t3_skeleton.mat,12,Bowling,S4,3,64,True,0,0.39171929389368454,True
+a12_s4_t4_skeleton.mat,12,Bowling,S4,4,68,True,0,0.39523116204945574,True
+a12_s5_t1_skeleton.mat,12,Bowling,S5,1,70,True,0,0.40743875049246314,True
+a12_s5_t2_skeleton.mat,12,Bowling,S5,2,75,True,0,0.4142959289494216,True
+a12_s5_t3_skeleton.mat,12,Bowling,S5,3,82,True,0,0.4161678584966695,True
+a12_s5_t4_skeleton.mat,12,Bowling,S5,4,76,True,0,0.41987411090687116,True
+a12_s6_t1_skeleton.mat,12,Bowling,S6,1,73,True,0,0.44937756483603225,True
+a12_s6_t2_skeleton.mat,12,Bowling,S6,2,80,True,0,0.45416026495872713,True
+a12_s6_t3_skeleton.mat,12,Bowling,S6,3,79,True,0,0.4459003015999956,True
+a12_s6_t4_skeleton.mat,12,Bowling,S6,4,75,True,0,0.4502857590236871,True
+a12_s7_t1_skeleton.mat,12,Bowling,S7,1,80,True,0,0.3945236421423026,True
+a12_s7_t2_skeleton.mat,12,Bowling,S7,2,79,True,0,0.3842622351758334,True
+a12_s7_t3_skeleton.mat,12,Bowling,S7,3,80,True,0,0.3832657412782127,True
+a12_s7_t4_skeleton.mat,12,Bowling,S7,4,68,True,0,0.39276552837422973,True
+a12_s8_t1_skeleton.mat,12,Bowling,S8,1,80,True,0,0.40564598627282716,True
+a12_s8_t2_skeleton.mat,12,Bowling,S8,2,80,True,0,0.40128973832059045,True
+a12_s8_t3_skeleton.mat,12,Bowling,S8,3,68,True,0,0.4011405301482368,True
+a12_s8_t4_skeleton.mat,12,Bowling,S8,4,67,True,0,0.40927289357256036,True
+a13_s1_t1_skeleton.mat,13,Boxing,S1,1,80,True,0,0.41471731197249573,True
+a13_s1_t2_skeleton.mat,13,Boxing,S1,2,92,True,0,0.41108556906460314,True
+a13_s1_t3_skeleton.mat,13,Boxing,S1,3,86,True,0,0.4085166854866847,True
+a13_s1_t4_skeleton.mat,13,Boxing,S1,4,82,True,0,0.41134672748198564,True
+a13_s2_t1_skeleton.mat,13,Boxing,S2,1,54,True,0,0.4271951338292736,True
+a13_s2_t2_skeleton.mat,13,Boxing,S2,2,51,True,0,0.4252210353102006,True
+a13_s2_t3_skeleton.mat,13,Boxing,S2,3,52,True,0,0.4202450367727255,True
+a13_s2_t4_skeleton.mat,13,Boxing,S2,4,54,True,0,0.41926205638212743,True
+a13_s3_t1_skeleton.mat,13,Boxing,S3,1,63,True,0,0.38854890145001464,True
+a13_s3_t2_skeleton.mat,13,Boxing,S3,2,56,True,0,0.3910347365463479,True
+a13_s3_t3_skeleton.mat,13,Boxing,S3,3,64,True,0,0.3945629627359586,True
+a13_s3_t4_skeleton.mat,13,Boxing,S3,4,68,True,0,0.4017638820710903,True
+a13_s4_t1_skeleton.mat,13,Boxing,S4,1,76,True,0,0.4018725016373559,True
+a13_s4_t2_skeleton.mat,13,Boxing,S4,2,76,True,0,0.40615380753258157,True
+a13_s4_t3_skeleton.mat,13,Boxing,S4,3,74,True,0,0.41389090912794146,True
+a13_s4_t4_skeleton.mat,13,Boxing,S4,4,68,True,0,0.4080951539401235,True
+a13_s5_t1_skeleton.mat,13,Boxing,S5,1,58,True,0,0.4208973721481955,True
+a13_s5_t2_skeleton.mat,13,Boxing,S5,2,64,True,0,0.4249444252297345,True
+a13_s5_t3_skeleton.mat,13,Boxing,S5,3,65,True,0,0.43010528432191614,True
+a13_s5_t4_skeleton.mat,13,Boxing,S5,4,67,True,0,0.42663007441349776,True
+a13_s6_t1_skeleton.mat,13,Boxing,S6,1,66,True,0,0.458808915824212,True
+a13_s6_t2_skeleton.mat,13,Boxing,S6,2,75,True,0,0.4660972994691174,True
+a13_s6_t3_skeleton.mat,13,Boxing,S6,3,82,True,0,0.4672488644610574,True
+a13_s6_t4_skeleton.mat,13,Boxing,S6,4,74,True,0,0.471005324655698,True
+a13_s7_t1_skeleton.mat,13,Boxing,S7,1,66,True,0,0.3868428468762207,True
+a13_s7_t2_skeleton.mat,13,Boxing,S7,2,64,True,0,0.38625112367578845,True
+a13_s7_t3_skeleton.mat,13,Boxing,S7,3,67,True,0,0.39068033471998487,True
+a13_s7_t4_skeleton.mat,13,Boxing,S7,4,65,True,0,0.39757852423051854,True
+a13_s8_t1_skeleton.mat,13,Boxing,S8,1,75,True,0,0.4094038060777132,True
+a13_s8_t2_skeleton.mat,13,Boxing,S8,2,69,True,0,0.41080487145401506,True
+a13_s8_t3_skeleton.mat,13,Boxing,S8,3,75,True,0,0.4108985227565877,True
+a13_s8_t4_skeleton.mat,13,Boxing,S8,4,63,True,0,0.4145314316751295,True
+a14_s1_t1_skeleton.mat,14,Baseball swing,S1,1,83,True,0,0.41423007277243723,True
+a14_s1_t2_skeleton.mat,14,Baseball swing,S1,2,79,True,0,0.4122840540631087,True
+a14_s1_t3_skeleton.mat,14,Baseball swing,S1,3,82,True,0,0.4112903485144309,True
+a14_s1_t4_skeleton.mat,14,Baseball swing,S1,4,80,True,0,0.4149475457911217,True
+a14_s2_t1_skeleton.mat,14,Baseball swing,S2,1,73,True,0,0.4246822460920356,True
+a14_s2_t2_skeleton.mat,14,Baseball swing,S2,2,75,True,0,0.40718311582049305,True
+a14_s2_t3_skeleton.mat,14,Baseball swing,S2,3,78,True,0,0.40532899650854914,True
+a14_s2_t4_skeleton.mat,14,Baseball swing,S2,4,73,True,0,0.40132290593896613,True
+a14_s3_t1_skeleton.mat,14,Baseball swing,S3,1,63,True,0,0.3907251283110515,True
+a14_s3_t2_skeleton.mat,14,Baseball swing,S3,2,66,True,0,0.389974778334495,True
+a14_s3_t3_skeleton.mat,14,Baseball swing,S3,3,72,True,0,0.38519401920227225,True
+a14_s3_t4_skeleton.mat,14,Baseball swing,S3,4,69,True,0,0.38772988392652785,True
+a14_s4_t1_skeleton.mat,14,Baseball swing,S4,1,81,True,0,0.3954433929844421,True
+a14_s4_t2_skeleton.mat,14,Baseball swing,S4,2,71,True,0,0.403260249796811,True
+a14_s4_t3_skeleton.mat,14,Baseball swing,S4,3,76,True,0,0.3927821036058079,True
+a14_s4_t4_skeleton.mat,14,Baseball swing,S4,4,65,True,0,0.4008211018069718,True
+a14_s5_t1_skeleton.mat,14,Baseball swing,S5,1,73,True,0,0.4169036642166744,True
+a14_s5_t2_skeleton.mat,14,Baseball swing,S5,2,71,True,0,0.4220853921485388,True
+a14_s5_t3_skeleton.mat,14,Baseball swing,S5,3,69,True,0,0.4180748743724216,True
+a14_s5_t4_skeleton.mat,14,Baseball swing,S5,4,74,True,0,0.4202651461516348,True
+a14_s6_t1_skeleton.mat,14,Baseball swing,S6,1,68,True,0,0.46326844768639663,True
+a14_s6_t2_skeleton.mat,14,Baseball swing,S6,2,79,True,0,0.4665255848303155,True
+a14_s6_t3_skeleton.mat,14,Baseball swing,S6,3,78,True,0,0.46079223120229507,True
+a14_s6_t4_skeleton.mat,14,Baseball swing,S6,4,75,True,0,0.4614039430094801,True
+a14_s7_t1_skeleton.mat,14,Baseball swing,S7,1,84,True,0,0.3882226053444373,True
+a14_s7_t2_skeleton.mat,14,Baseball swing,S7,2,90,True,0,0.38935578498511314,True
+a14_s7_t3_skeleton.mat,14,Baseball swing,S7,3,81,True,0,0.39286597926843786,True
+a14_s7_t4_skeleton.mat,14,Baseball swing,S7,4,87,True,0,0.39645707071250713,True
+a14_s8_t1_skeleton.mat,14,Baseball swing,S8,1,72,True,0,0.40956094188287473,True
+a14_s8_t2_skeleton.mat,14,Baseball swing,S8,2,64,True,0,0.40911367113284275,True
+a14_s8_t3_skeleton.mat,14,Baseball swing,S8,3,65,True,0,0.40728797545986994,True
+a14_s8_t4_skeleton.mat,14,Baseball swing,S8,4,63,True,0,0.40922849250810206,True
+a15_s1_t1_skeleton.mat,15,Tennis swing,S1,1,79,True,0,0.4158737813915316,True
+a15_s1_t2_skeleton.mat,15,Tennis swing,S1,2,73,True,0,0.4169621933874869,True
+a15_s1_t3_skeleton.mat,15,Tennis swing,S1,3,68,True,0,0.41811360154214317,True
+a15_s1_t4_skeleton.mat,15,Tennis swing,S1,4,67,True,0,0.4173017812322891,True
+a15_s2_t1_skeleton.mat,15,Tennis swing,S2,1,53,True,0,0.40491280907581634,True
+a15_s2_t2_skeleton.mat,15,Tennis swing,S2,2,45,True,0,0.4090129170860754,True
+a15_s2_t3_skeleton.mat,15,Tennis swing,S2,3,57,True,0,0.40303860732502833,True
+a15_s2_t4_skeleton.mat,15,Tennis swing,S2,4,44,True,0,0.40597213364826024,True
+a15_s3_t1_skeleton.mat,15,Tennis swing,S3,1,68,True,0,0.381645208204051,True
+a15_s3_t2_skeleton.mat,15,Tennis swing,S3,2,61,True,0,0.38296833401925423,True
+a15_s3_t3_skeleton.mat,15,Tennis swing,S3,3,57,True,0,0.3835876763534839,True
+a15_s3_t4_skeleton.mat,15,Tennis swing,S3,4,63,True,0,0.38481221053705694,True
+a15_s4_t1_skeleton.mat,15,Tennis swing,S4,1,57,True,0,0.38279322986399994,True
+a15_s4_t2_skeleton.mat,15,Tennis swing,S4,2,66,True,0,0.3866702433337046,True
+a15_s4_t3_skeleton.mat,15,Tennis swing,S4,3,59,True,0,0.38983421221878045,True
+a15_s4_t4_skeleton.mat,15,Tennis swing,S4,4,58,True,0,0.3880852530816282,True
+a15_s5_t1_skeleton.mat,15,Tennis swing,S5,1,63,True,0,0.41887939228175736,True
+a15_s5_t2_skeleton.mat,15,Tennis swing,S5,2,62,True,0,0.41524413978649954,True
+a15_s5_t3_skeleton.mat,15,Tennis swing,S5,3,61,True,0,0.41609257810238004,True
+a15_s5_t4_skeleton.mat,15,Tennis swing,S5,4,54,True,0,0.412911237273787,True
+a15_s6_t1_skeleton.mat,15,Tennis swing,S6,1,69,True,0,0.45582986658131824,True
+a15_s6_t2_skeleton.mat,15,Tennis swing,S6,2,69,True,0,0.4620413624331517,True
+a15_s6_t3_skeleton.mat,15,Tennis swing,S6,3,72,True,0,0.4580624006486059,True
+a15_s6_t4_skeleton.mat,15,Tennis swing,S6,4,70,True,0,0.4678401975667402,True
+a15_s7_t1_skeleton.mat,15,Tennis swing,S7,1,71,True,0,0.38497652762937307,True
+a15_s7_t2_skeleton.mat,15,Tennis swing,S7,2,68,True,0,0.3828046184728093,True
+a15_s7_t3_skeleton.mat,15,Tennis swing,S7,3,69,True,0,0.3834336184555004,True
+a15_s7_t4_skeleton.mat,15,Tennis swing,S7,4,63,True,0,0.38454884882304546,True
+a15_s8_t1_skeleton.mat,15,Tennis swing,S8,1,87,True,0,0.40174144375757426,True
+a15_s8_t2_skeleton.mat,15,Tennis swing,S8,2,64,True,0,0.40049244571313963,True
+a15_s8_t3_skeleton.mat,15,Tennis swing,S8,3,65,True,0,0.39894673316100127,True
+a15_s8_t4_skeleton.mat,15,Tennis swing,S8,4,66,True,0,0.4024123057687058,True
+a16_s1_t1_skeleton.mat,16,Arm curl,S1,1,63,True,0,0.41563794977213225,True
+a16_s1_t2_skeleton.mat,16,Arm curl,S1,2,63,True,0,0.41335406721855694,True
+a16_s1_t3_skeleton.mat,16,Arm curl,S1,3,56,True,0,0.41780849376113266,True
+a16_s1_t4_skeleton.mat,16,Arm curl,S1,4,56,True,0,0.4170646273625503,True
+a16_s2_t1_skeleton.mat,16,Arm curl,S2,1,42,True,0,0.4107445179776501,True
+a16_s2_t2_skeleton.mat,16,Arm curl,S2,2,43,True,0,0.4143963079667285,True
+a16_s2_t3_skeleton.mat,16,Arm curl,S2,3,45,True,0,0.4188125702844251,True
+a16_s2_t4_skeleton.mat,16,Arm curl,S2,4,50,True,0,0.41547634409951495,True
+a16_s3_t1_skeleton.mat,16,Arm curl,S3,1,50,True,0,0.39695736578391616,True
+a16_s3_t2_skeleton.mat,16,Arm curl,S3,2,48,True,0,0.4015240866424571,True
+a16_s3_t3_skeleton.mat,16,Arm curl,S3,3,56,True,0,0.3989611921996863,True
+a16_s3_t4_skeleton.mat,16,Arm curl,S3,4,56,True,0,0.39347618349474206,True
+a16_s4_t1_skeleton.mat,16,Arm curl,S4,1,52,True,0,0.3898710105816177,True
+a16_s4_t2_skeleton.mat,16,Arm curl,S4,2,63,True,0,0.38909744765887905,True
+a16_s4_t3_skeleton.mat,16,Arm curl,S4,3,58,True,0,0.389726631278548,True
+a16_s4_t4_skeleton.mat,16,Arm curl,S4,4,61,True,0,0.3891728308075402,True
+a16_s5_t1_skeleton.mat,16,Arm curl,S5,1,51,True,0,0.4157050311103875,True
+a16_s5_t2_skeleton.mat,16,Arm curl,S5,2,56,True,0,0.4170144588021093,True
+a16_s5_t3_skeleton.mat,16,Arm curl,S5,3,56,True,0,0.41670155688774113,True
+a16_s5_t4_skeleton.mat,16,Arm curl,S5,4,51,True,0,0.4148170780203527,True
+a16_s6_t1_skeleton.mat,16,Arm curl,S6,1,58,True,0,0.4611622430256408,True
+a16_s6_t2_skeleton.mat,16,Arm curl,S6,2,52,True,0,0.4607518795500387,True
+a16_s6_t3_skeleton.mat,16,Arm curl,S6,3,61,True,0,0.46461692626639045,True
+a16_s6_t4_skeleton.mat,16,Arm curl,S6,4,66,True,0,0.46357837260926493,True
+a16_s7_t1_skeleton.mat,16,Arm curl,S7,1,65,True,0,0.3905248460438664,True
+a16_s7_t2_skeleton.mat,16,Arm curl,S7,2,71,True,0,0.392285222347133,True
+a16_s7_t3_skeleton.mat,16,Arm curl,S7,3,69,True,0,0.3956885584221416,True
+a16_s7_t4_skeleton.mat,16,Arm curl,S7,4,67,True,0,0.3947721726171425,True
+a16_s8_t1_skeleton.mat,16,Arm curl,S8,1,86,True,0,0.41081584254789716,True
+a16_s8_t2_skeleton.mat,16,Arm curl,S8,2,78,True,0,0.41748569968030164,True
+a16_s8_t3_skeleton.mat,16,Arm curl,S8,3,71,True,0,0.4150978926733269,True
+a16_s8_t4_skeleton.mat,16,Arm curl,S8,4,81,True,0,0.4127411151326088,True
+a17_s1_t1_skeleton.mat,17,Tennis serve,S1,1,69,True,0,0.4185394651349658,True
+a17_s1_t2_skeleton.mat,17,Tennis serve,S1,2,73,True,0,0.42075556297704925,True
+a17_s1_t3_skeleton.mat,17,Tennis serve,S1,3,72,True,0,0.4158410376527386,True
+a17_s1_t4_skeleton.mat,17,Tennis serve,S1,4,73,True,0,0.4220844093836865,True
+a17_s2_t1_skeleton.mat,17,Tennis serve,S2,1,54,True,0,0.41827440838129104,True
+a17_s2_t2_skeleton.mat,17,Tennis serve,S2,2,55,True,0,0.41502388648083205,True
+a17_s2_t3_skeleton.mat,17,Tennis serve,S2,3,54,True,0,0.4129565858002816,True
+a17_s2_t4_skeleton.mat,17,Tennis serve,S2,4,52,True,0,0.4182546125574907,True
+a17_s3_t1_skeleton.mat,17,Tennis serve,S3,1,57,True,0,0.38658482431947455,True
+a17_s3_t2_skeleton.mat,17,Tennis serve,S3,2,57,True,0,0.3857310926904489,True
+a17_s3_t3_skeleton.mat,17,Tennis serve,S3,3,59,True,0,0.3901507582771722,True
+a17_s3_t4_skeleton.mat,17,Tennis serve,S3,4,56,True,0,0.3878386337470711,True
+a17_s4_t1_skeleton.mat,17,Tennis serve,S4,1,57,True,0,0.38528095903922094,True
+a17_s4_t2_skeleton.mat,17,Tennis serve,S4,2,71,True,0,0.3887527715432062,True
+a17_s4_t3_skeleton.mat,17,Tennis serve,S4,3,68,True,0,0.39160168811248086,True
+a17_s4_t4_skeleton.mat,17,Tennis serve,S4,4,64,True,0,0.3928584109844345,True
+a17_s5_t1_skeleton.mat,17,Tennis serve,S5,1,68,True,0,0.4255417125620237,True
+a17_s5_t2_skeleton.mat,17,Tennis serve,S5,2,63,True,0,0.42558009578400113,True
+a17_s5_t3_skeleton.mat,17,Tennis serve,S5,3,58,True,0,0.4275328657890993,True
+a17_s5_t4_skeleton.mat,17,Tennis serve,S5,4,56,True,0,0.4246256428214184,True
+a17_s6_t1_skeleton.mat,17,Tennis serve,S6,1,74,True,0,0.4684576992046464,True
+a17_s6_t2_skeleton.mat,17,Tennis serve,S6,2,70,True,0,0.46144132934564325,True
+a17_s6_t3_skeleton.mat,17,Tennis serve,S6,3,64,True,0,0.46207362060893176,True
+a17_s6_t4_skeleton.mat,17,Tennis serve,S6,4,70,True,0,0.4624597589906302,True
+a17_s7_t1_skeleton.mat,17,Tennis serve,S7,1,75,True,0,0.3893045501488157,True
+a17_s7_t2_skeleton.mat,17,Tennis serve,S7,2,94,True,0,0.3968905268763504,True
+a17_s7_t3_skeleton.mat,17,Tennis serve,S7,3,82,True,0,0.39400614283057644,True
+a17_s7_t4_skeleton.mat,17,Tennis serve,S7,4,83,True,0,0.3976360609380412,True
+a17_s8_t1_skeleton.mat,17,Tennis serve,S8,1,84,True,0,0.4021866835670296,True
+a17_s8_t2_skeleton.mat,17,Tennis serve,S8,2,78,True,0,0.4002744630158663,True
+a17_s8_t3_skeleton.mat,17,Tennis serve,S8,3,80,True,0,0.405098875411341,True
+a17_s8_t4_skeleton.mat,17,Tennis serve,S8,4,76,True,0,0.40483187612858507,True
+a18_s1_t1_skeleton.mat,18,Push,S1,1,65,True,0,0.4142482446636809,True
+a18_s1_t2_skeleton.mat,18,Push,S1,2,58,True,0,0.4191690145995162,True
+a18_s1_t3_skeleton.mat,18,Push,S1,3,69,True,0,0.416005965438616,True
+a18_s1_t4_skeleton.mat,18,Push,S1,4,66,True,0,0.4181389582143734,True
+a18_s2_t1_skeleton.mat,18,Push,S2,1,48,True,0,0.4178852678232419,True
+a18_s2_t2_skeleton.mat,18,Push,S2,2,47,True,0,0.417730418258266,True
+a18_s2_t3_skeleton.mat,18,Push,S2,3,49,True,0,0.4150135511839794,True
+a18_s2_t4_skeleton.mat,18,Push,S2,4,52,True,0,0.4188731930079761,True
+a18_s3_t1_skeleton.mat,18,Push,S3,1,53,True,0,0.39095561846467397,True
+a18_s3_t2_skeleton.mat,18,Push,S3,2,52,True,0,0.3917470601573925,True
+a18_s3_t3_skeleton.mat,18,Push,S3,3,57,True,0,0.3935329955893321,True
+a18_s3_t4_skeleton.mat,18,Push,S3,4,57,True,0,0.38749580600818917,True
+a18_s4_t1_skeleton.mat,18,Push,S4,1,54,True,0,0.3896393621563269,True
+a18_s4_t2_skeleton.mat,18,Push,S4,2,52,True,0,0.38583234811377887,True
+a18_s4_t3_skeleton.mat,18,Push,S4,3,60,True,0,0.39349736742689767,True
+a18_s4_t4_skeleton.mat,18,Push,S4,4,55,True,0,0.39421954649747826,True
+a18_s5_t1_skeleton.mat,18,Push,S5,1,65,True,0,0.42152791037755194,True
+a18_s5_t2_skeleton.mat,18,Push,S5,2,49,True,0,0.4224548400766686,True
+a18_s5_t3_skeleton.mat,18,Push,S5,3,50,True,0,0.4231819227226393,True
+a18_s5_t4_skeleton.mat,18,Push,S5,4,48,True,0,0.4187534762073546,True
+a18_s6_t1_skeleton.mat,18,Push,S6,1,75,True,0,0.46744376173974495,True
+a18_s6_t2_skeleton.mat,18,Push,S6,2,76,True,0,0.47311223791360535,True
+a18_s6_t3_skeleton.mat,18,Push,S6,3,73,True,0,0.4714352837821046,True
+a18_s6_t4_skeleton.mat,18,Push,S6,4,80,True,0,0.47102794421179855,True
+a18_s7_t1_skeleton.mat,18,Push,S7,1,69,True,0,0.3975971722514287,True
+a18_s7_t2_skeleton.mat,18,Push,S7,2,62,True,0,0.3919538649707822,True
+a18_s7_t3_skeleton.mat,18,Push,S7,3,76,True,0,0.3962480814451908,True
+a18_s7_t4_skeleton.mat,18,Push,S7,4,65,True,0,0.401959834231943,True
+a18_s8_t1_skeleton.mat,18,Push,S8,1,79,True,0,0.40389483065300325,True
+a18_s8_t2_skeleton.mat,18,Push,S8,2,80,True,0,0.40327907713908906,True
+a18_s8_t3_skeleton.mat,18,Push,S8,3,74,True,0,0.40275153817563475,True
+a18_s8_t4_skeleton.mat,18,Push,S8,4,74,True,0,0.4046943907621654,True
+a19_s1_t1_skeleton.mat,19,Knock,S1,1,68,True,0,0.41905186251086246,True
+a19_s1_t2_skeleton.mat,19,Knock,S1,2,68,True,0,0.4149397191695613,True
+a19_s1_t3_skeleton.mat,19,Knock,S1,3,66,True,0,0.4150278435187945,True
+a19_s1_t4_skeleton.mat,19,Knock,S1,4,66,True,0,0.41256156393271004,True
+a19_s2_t1_skeleton.mat,19,Knock,S2,1,56,True,0,0.41677324779259817,True
+a19_s2_t2_skeleton.mat,19,Knock,S2,2,53,True,0,0.41839448233065724,True
+a19_s2_t3_skeleton.mat,19,Knock,S2,3,53,True,0,0.42130555285365645,True
+a19_s2_t4_skeleton.mat,19,Knock,S2,4,57,True,0,0.4229292039884484,True
+a19_s3_t1_skeleton.mat,19,Knock,S3,1,61,True,0,0.38967853268908237,True
+a19_s3_t2_skeleton.mat,19,Knock,S3,2,69,True,0,0.39009017934681606,True
+a19_s3_t3_skeleton.mat,19,Knock,S3,3,76,True,0,0.38824164137100065,True
+a19_s3_t4_skeleton.mat,19,Knock,S3,4,77,True,0,0.3977510677165131,True
+a19_s4_t1_skeleton.mat,19,Knock,S4,1,56,True,0,0.3970740041834381,True
+a19_s4_t2_skeleton.mat,19,Knock,S4,2,59,True,0,0.39680154207907437,True
+a19_s4_t3_skeleton.mat,19,Knock,S4,3,58,True,0,0.4005231130495027,True
+a19_s4_t4_skeleton.mat,19,Knock,S4,4,56,True,0,0.3968500783645279,True
+a19_s5_t1_skeleton.mat,19,Knock,S5,1,59,True,0,0.42314714958867256,True
+a19_s5_t2_skeleton.mat,19,Knock,S5,2,55,True,0,0.42220519280280405,True
+a19_s5_t3_skeleton.mat,19,Knock,S5,3,64,True,0,0.42633865526072323,True
+a19_s5_t4_skeleton.mat,19,Knock,S5,4,63,True,0,0.4231065445957233,True
+a19_s6_t1_skeleton.mat,19,Knock,S6,1,87,True,0,0.4674701147575802,True
+a19_s6_t2_skeleton.mat,19,Knock,S6,2,78,True,0,0.4661277341251199,True
+a19_s6_t3_skeleton.mat,19,Knock,S6,3,82,True,0,0.46869297595448306,True
+a19_s6_t4_skeleton.mat,19,Knock,S6,4,84,True,0,0.46576089718423674,True
+a19_s7_t1_skeleton.mat,19,Knock,S7,1,61,True,0,0.38926508100640245,True
+a19_s7_t2_skeleton.mat,19,Knock,S7,2,55,True,0,0.39934110271907913,True
+a19_s7_t3_skeleton.mat,19,Knock,S7,3,72,True,0,0.40178932889561203,True
+a19_s7_t4_skeleton.mat,19,Knock,S7,4,62,True,0,0.3991056378895169,True
+a19_s8_t1_skeleton.mat,19,Knock,S8,1,82,True,0,0.4061511420813585,True
+a19_s8_t2_skeleton.mat,19,Knock,S8,2,95,True,0,0.40705641133841297,True
+a19_s8_t3_skeleton.mat,19,Knock,S8,3,94,True,0,0.4076550434508931,True
+a19_s8_t4_skeleton.mat,19,Knock,S8,4,75,True,0,0.40603461952052256,True
+a1_s1_t1_skeleton.mat,1,Swipe left,S1,1,48,True,0,0.4127016904754341,True
+a1_s1_t2_skeleton.mat,1,Swipe left,S1,2,52,True,0,0.41181662688500975,True
+a1_s1_t3_skeleton.mat,1,Swipe left,S1,3,53,True,0,0.4118060146684015,True
+a1_s1_t4_skeleton.mat,1,Swipe left,S1,4,61,True,0,0.4134016093814121,True
+a1_s2_t1_skeleton.mat,1,Swipe left,S2,1,58,True,0,0.4188705245113796,True
+a1_s2_t2_skeleton.mat,1,Swipe left,S2,2,60,True,0,0.41879389557574626,True
+a1_s2_t3_skeleton.mat,1,Swipe left,S2,3,56,True,0,0.41592613447347127,True
+a1_s2_t4_skeleton.mat,1,Swipe left,S2,4,55,True,0,0.41186706099951176,True
+a1_s3_t1_skeleton.mat,1,Swipe left,S3,1,56,True,0,0.39531891464427893,True
+a1_s3_t2_skeleton.mat,1,Swipe left,S3,2,52,True,0,0.3924849470677378,True
+a1_s3_t3_skeleton.mat,1,Swipe left,S3,3,50,True,0,0.3928691103277533,True
+a1_s3_t4_skeleton.mat,1,Swipe left,S3,4,58,True,0,0.3937241067395042,True
+a1_s4_t1_skeleton.mat,1,Swipe left,S4,1,55,True,0,0.38626023933492454,True
+a1_s4_t2_skeleton.mat,1,Swipe left,S4,2,56,True,0,0.3855041641408257,True
+a1_s4_t3_skeleton.mat,1,Swipe left,S4,3,56,True,0,0.3864937354665402,True
+a1_s4_t4_skeleton.mat,1,Swipe left,S4,4,63,True,0,0.3855692162049699,True
+a1_s5_t1_skeleton.mat,1,Swipe left,S5,1,69,True,0,0.4175313629951849,True
+a1_s5_t2_skeleton.mat,1,Swipe left,S5,2,63,True,0,0.41717609597929817,True
+a1_s5_t3_skeleton.mat,1,Swipe left,S5,3,72,True,0,0.41610516775114503,True
+a1_s5_t4_skeleton.mat,1,Swipe left,S5,4,68,True,0,0.41899673007485866,True
+a1_s6_t1_skeleton.mat,1,Swipe left,S6,1,71,True,0,0.4619393267669357,True
+a1_s6_t2_skeleton.mat,1,Swipe left,S6,2,71,True,0,0.46195996789856086,True
+a1_s6_t3_skeleton.mat,1,Swipe left,S6,3,70,True,0,0.4612401459652863,True
+a1_s6_t4_skeleton.mat,1,Swipe left,S6,4,72,True,0,0.4591878266116881,True
+a1_s7_t1_skeleton.mat,1,Swipe left,S7,1,59,True,0,0.3873720700121997,True
+a1_s7_t2_skeleton.mat,1,Swipe left,S7,2,62,True,0,0.38793586015118253,True
+a1_s7_t3_skeleton.mat,1,Swipe left,S7,3,56,True,0,0.38826919543101956,True
+a1_s7_t4_skeleton.mat,1,Swipe left,S7,4,55,True,0,0.3876904361555908,True
+a1_s8_t1_skeleton.mat,1,Swipe left,S8,1,76,True,0,0.4204864444633407,True
+a1_s8_t2_skeleton.mat,1,Swipe left,S8,2,66,True,0,0.4201480028617206,True
+a1_s8_t3_skeleton.mat,1,Swipe left,S8,3,69,True,0,0.4154981128792856,True
+a1_s8_t4_skeleton.mat,1,Swipe left,S8,4,64,True,0,0.4196805749630903,True
+a20_s1_t1_skeleton.mat,20,Catch,S1,1,61,True,0,0.4191715502079861,True
+a20_s1_t2_skeleton.mat,20,Catch,S1,2,62,True,0,0.41192908114210314,True
+a20_s1_t3_skeleton.mat,20,Catch,S1,3,65,True,0,0.4134197366516722,True
+a20_s1_t4_skeleton.mat,20,Catch,S1,4,64,True,0,0.41311415726372236,True
+a20_s2_t1_skeleton.mat,20,Catch,S2,1,51,True,0,0.41446256851786967,True
+a20_s2_t2_skeleton.mat,20,Catch,S2,2,44,True,0,0.41402503135249535,True
+a20_s2_t3_skeleton.mat,20,Catch,S2,3,47,True,0,0.41659112592829917,True
+a20_s2_t4_skeleton.mat,20,Catch,S2,4,46,True,0,0.4161279907895856,True
+a20_s3_t1_skeleton.mat,20,Catch,S3,1,49,True,0,0.38685253495850824,True
+a20_s3_t2_skeleton.mat,20,Catch,S3,2,59,True,0,0.3895941454571596,True
+a20_s3_t3_skeleton.mat,20,Catch,S3,3,60,True,0,0.3903770516467421,True
+a20_s3_t4_skeleton.mat,20,Catch,S3,4,52,True,0,0.3896028768957542,True
+a20_s4_t1_skeleton.mat,20,Catch,S4,1,54,True,0,0.39525989184305904,True
+a20_s4_t2_skeleton.mat,20,Catch,S4,2,50,True,0,0.3923712581779738,True
+a20_s4_t3_skeleton.mat,20,Catch,S4,3,41,True,0,0.39584678574533205,True
+a20_s4_t4_skeleton.mat,20,Catch,S4,4,48,True,0,0.39397316159598467,True
+a20_s5_t1_skeleton.mat,20,Catch,S5,1,52,True,0,0.4247261256392057,True
+a20_s5_t2_skeleton.mat,20,Catch,S5,2,63,True,0,0.42724360261156963,True
+a20_s5_t3_skeleton.mat,20,Catch,S5,3,68,True,0,0.4279066832873031,True
+a20_s5_t4_skeleton.mat,20,Catch,S5,4,71,True,0,0.4197253400640506,True
+a20_s6_t1_skeleton.mat,20,Catch,S6,1,59,True,0,0.46183735137734544,True
+a20_s6_t2_skeleton.mat,20,Catch,S6,2,68,True,0,0.46327096377738575,True
+a20_s6_t3_skeleton.mat,20,Catch,S6,3,64,True,0,0.4636443542089987,True
+a20_s6_t4_skeleton.mat,20,Catch,S6,4,67,True,0,0.4643504594646358,True
+a20_s7_t1_skeleton.mat,20,Catch,S7,1,55,True,0,0.38945337948082154,True
+a20_s7_t2_skeleton.mat,20,Catch,S7,2,64,True,0,0.3923939887879909,True
+a20_s7_t3_skeleton.mat,20,Catch,S7,3,59,True,0,0.3944908496141227,True
+a20_s7_t4_skeleton.mat,20,Catch,S7,4,63,True,0,0.39299545756655296,True
+a20_s8_t1_skeleton.mat,20,Catch,S8,1,74,True,0,0.40378106202122577,True
+a20_s8_t2_skeleton.mat,20,Catch,S8,2,70,True,0,0.4045615773694854,True
+a20_s8_t3_skeleton.mat,20,Catch,S8,3,71,True,0,0.4053563425486178,True
+a20_s8_t4_skeleton.mat,20,Catch,S8,4,67,True,0,0.4047322224351994,True
+a21_s1_t1_skeleton.mat,21,Pick up and throw,S1,1,92,True,0,0.41540860892661297,True
+a21_s1_t2_skeleton.mat,21,Pick up and throw,S1,2,92,True,0,0.412976580926425,True
+a21_s1_t3_skeleton.mat,21,Pick up and throw,S1,3,84,True,0,0.41240169062484505,True
+a21_s1_t4_skeleton.mat,21,Pick up and throw,S1,4,68,True,0,0.42048069533273147,True
+a21_s2_t1_skeleton.mat,21,Pick up and throw,S2,1,76,True,0,0.41006126835863743,True
+a21_s2_t2_skeleton.mat,21,Pick up and throw,S2,2,80,True,0,0.40946687251186664,True
+a21_s2_t3_skeleton.mat,21,Pick up and throw,S2,3,75,True,0,0.40942365965170835,True
+a21_s2_t4_skeleton.mat,21,Pick up and throw,S2,4,70,True,0,0.41163627862041197,True
+a21_s3_t1_skeleton.mat,21,Pick up and throw,S3,1,70,True,0,0.3779973771860369,True
+a21_s3_t2_skeleton.mat,21,Pick up and throw,S3,2,73,True,0,0.36973771692309265,True
+a21_s3_t3_skeleton.mat,21,Pick up and throw,S3,3,68,True,0,0.36463024132544775,True
+a21_s3_t4_skeleton.mat,21,Pick up and throw,S3,4,80,True,0,0.38482159129187404,True
+a21_s4_t1_skeleton.mat,21,Pick up and throw,S4,1,73,True,0,0.3867717886675039,True
+a21_s4_t2_skeleton.mat,21,Pick up and throw,S4,2,77,True,0,0.386652892888718,True
+a21_s4_t3_skeleton.mat,21,Pick up and throw,S4,3,78,True,0,0.38480619092469165,True
+a21_s4_t4_skeleton.mat,21,Pick up and throw,S4,4,77,True,0,0.3894457878004944,True
+a21_s5_t1_skeleton.mat,21,Pick up and throw,S5,1,85,True,0,0.4156865388344703,True
+a21_s5_t2_skeleton.mat,21,Pick up and throw,S5,2,77,True,0,0.41918376278079567,True
+a21_s5_t3_skeleton.mat,21,Pick up and throw,S5,3,82,True,0,0.4167160525048248,True
+a21_s5_t4_skeleton.mat,21,Pick up and throw,S5,4,75,True,0,0.4211026473941047,True
+a21_s6_t1_skeleton.mat,21,Pick up and throw,S6,1,107,True,0,0.4596187941747391,True
+a21_s6_t2_skeleton.mat,21,Pick up and throw,S6,2,97,True,0,0.46818465685449223,True
+a21_s6_t3_skeleton.mat,21,Pick up and throw,S6,3,96,True,0,0.4707858566782541,True
+a21_s6_t4_skeleton.mat,21,Pick up and throw,S6,4,91,True,0,0.47152839216651604,True
+a21_s7_t1_skeleton.mat,21,Pick up and throw,S7,1,91,True,0,0.3849536296180536,True
+a21_s7_t2_skeleton.mat,21,Pick up and throw,S7,2,87,True,0,0.3904965796336377,True
+a21_s7_t3_skeleton.mat,21,Pick up and throw,S7,3,93,True,0,0.39370529164679646,True
+a21_s7_t4_skeleton.mat,21,Pick up and throw,S7,4,97,True,0,0.39276725444081456,True
+a21_s8_t1_skeleton.mat,21,Pick up and throw,S8,1,124,True,0,0.4072729500921626,True
+a21_s8_t2_skeleton.mat,21,Pick up and throw,S8,2,125,True,0,0.4095811130183268,True
+a21_s8_t3_skeleton.mat,21,Pick up and throw,S8,3,109,True,0,0.41036752764111845,True
+a21_s8_t4_skeleton.mat,21,Pick up and throw,S8,4,116,True,0,0.4069033714149195,True
+a22_s1_t1_skeleton.mat,22,Jog,S1,1,66,True,0,0.39727284992091616,True
+a22_s1_t2_skeleton.mat,22,Jog,S1,2,77,True,0,0.39973628167540404,True
+a22_s1_t3_skeleton.mat,22,Jog,S1,3,79,True,0,0.40043180348715557,True
+a22_s1_t4_skeleton.mat,22,Jog,S1,4,75,True,0,0.4004505809042778,True
+a22_s2_t1_skeleton.mat,22,Jog,S2,1,55,True,0,0.400419156596979,True
+a22_s2_t2_skeleton.mat,22,Jog,S2,2,60,True,0,0.3989493381073247,True
+a22_s2_t3_skeleton.mat,22,Jog,S2,3,57,True,0,0.40075289002952286,True
+a22_s2_t4_skeleton.mat,22,Jog,S2,4,51,True,0,0.40052492413411195,True
+a22_s3_t1_skeleton.mat,22,Jog,S3,1,62,True,0,0.3803170586932596,True
+a22_s3_t2_skeleton.mat,22,Jog,S3,2,69,True,0,0.38389705853252226,True
+a22_s3_t3_skeleton.mat,22,Jog,S3,3,65,True,0,0.38376833850639974,True
+a22_s3_t4_skeleton.mat,22,Jog,S3,4,69,True,0,0.38074502907936497,True
+a22_s4_t1_skeleton.mat,22,Jog,S4,1,54,True,0,0.3890725581732857,True
+a22_s4_t2_skeleton.mat,22,Jog,S4,2,51,True,0,0.38500210965159753,True
+a22_s4_t3_skeleton.mat,22,Jog,S4,3,57,True,0,0.3894807334173928,True
+a22_s4_t4_skeleton.mat,22,Jog,S4,4,59,True,0,0.39035259905377134,True
+a22_s5_t1_skeleton.mat,22,Jog,S5,1,77,True,0,0.41211669485240054,True
+a22_s5_t2_skeleton.mat,22,Jog,S5,2,82,True,0,0.41456030909078717,True
+a22_s5_t3_skeleton.mat,22,Jog,S5,3,80,True,0,0.41189477580897527,True
+a22_s5_t4_skeleton.mat,22,Jog,S5,4,78,True,0,0.41181922502216106,True
+a22_s6_t1_skeleton.mat,22,Jog,S6,1,82,True,0,0.4545951370952695,True
+a22_s6_t2_skeleton.mat,22,Jog,S6,2,81,True,0,0.440001488643651,True
+a22_s6_t3_skeleton.mat,22,Jog,S6,3,72,True,0,0.45650539725927114,True
+a22_s6_t4_skeleton.mat,22,Jog,S6,4,68,True,0,0.46158488676947523,True
+a22_s7_t1_skeleton.mat,22,Jog,S7,1,64,True,0,0.3822785577462352,True
+a22_s7_t2_skeleton.mat,22,Jog,S7,2,63,True,0,0.3786616329095527,True
+a22_s7_t3_skeleton.mat,22,Jog,S7,3,70,True,0,0.3827074838770133,True
+a22_s7_t4_skeleton.mat,22,Jog,S7,4,67,True,0,0.3812092291299969,True
+a22_s8_t1_skeleton.mat,22,Jog,S8,1,58,True,0,0.3990040174734134,True
+a22_s8_t2_skeleton.mat,22,Jog,S8,2,72,True,0,0.4018893593941846,True
+a22_s8_t3_skeleton.mat,22,Jog,S8,3,70,True,0,0.40216659228269735,True
+a22_s8_t4_skeleton.mat,22,Jog,S8,4,71,True,0,0.40403842489622543,True
+a23_s1_t1_skeleton.mat,23,Walk,S1,1,88,True,0,0.411273125639389,True
+a23_s1_t2_skeleton.mat,23,Walk,S1,2,94,True,0,0.4091964277987641,True
+a23_s1_t3_skeleton.mat,23,Walk,S1,3,80,True,0,0.4089995153739169,True
+a23_s1_t4_skeleton.mat,23,Walk,S1,4,75,True,0,0.40987138530581874,True
+a23_s2_t1_skeleton.mat,23,Walk,S2,1,60,True,0,0.4010229157913404,True
+a23_s2_t2_skeleton.mat,23,Walk,S2,2,72,True,0,0.4007925586690698,True
+a23_s2_t3_skeleton.mat,23,Walk,S2,3,65,True,0,0.40110514190903096,True
+a23_s2_t4_skeleton.mat,23,Walk,S2,4,66,True,0,0.3987005590734136,True
+a23_s3_t1_skeleton.mat,23,Walk,S3,1,73,True,0,0.3790715976792013,True
+a23_s3_t2_skeleton.mat,23,Walk,S3,2,81,True,0,0.37599944155669723,True
+a23_s3_t3_skeleton.mat,23,Walk,S3,3,81,True,0,0.37503095732357483,True
+a23_s3_t4_skeleton.mat,23,Walk,S3,4,79,True,0,0.3795066442766363,True
+a23_s4_t1_skeleton.mat,23,Walk,S4,1,71,True,0,0.39049666783776155,True
+a23_s4_t2_skeleton.mat,23,Walk,S4,2,82,True,0,0.39310534632844596,True
+a23_s4_t3_skeleton.mat,23,Walk,S4,3,80,True,0,0.39230547501557567,True
+a23_s4_t4_skeleton.mat,23,Walk,S4,4,70,True,0,0.3916907190524437,True
+a23_s5_t1_skeleton.mat,23,Walk,S5,1,72,True,0,0.4115252384120106,True
+a23_s5_t2_skeleton.mat,23,Walk,S5,2,71,True,0,0.4165127361996143,True
+a23_s5_t3_skeleton.mat,23,Walk,S5,3,81,True,0,0.4130156780773699,True
+a23_s5_t4_skeleton.mat,23,Walk,S5,4,72,True,0,0.41073943718964534,True
+a23_s6_t1_skeleton.mat,23,Walk,S6,1,100,True,0,0.4492037383466391,True
+a23_s6_t2_skeleton.mat,23,Walk,S6,2,96,True,0,0.4547481542196353,True
+a23_s6_t3_skeleton.mat,23,Walk,S6,3,104,True,0,0.4579194793589121,True
+a23_s7_t1_skeleton.mat,23,Walk,S7,1,66,True,0,0.38507175457865267,True
+a23_s7_t2_skeleton.mat,23,Walk,S7,2,61,True,0,0.38305299637196455,True
+a23_s7_t3_skeleton.mat,23,Walk,S7,3,61,True,0,0.38677896992743027,True
+a23_s7_t4_skeleton.mat,23,Walk,S7,4,61,True,0,0.38549109770239354,True
+a23_s8_t1_skeleton.mat,23,Walk,S8,1,87,True,0,0.39757688485966997,True
+a23_s8_t2_skeleton.mat,23,Walk,S8,2,65,True,0,0.39827166831270344,True
+a23_s8_t3_skeleton.mat,23,Walk,S8,3,72,True,0,0.3951315384469512,True
+a23_s8_t4_skeleton.mat,23,Walk,S8,4,70,True,0,0.3964961025075987,True
+a24_s1_t1_skeleton.mat,24,Sit to stand,S1,1,50,True,0,0.3333637898509912,True
+a24_s1_t2_skeleton.mat,24,Sit to stand,S1,2,60,True,0,0.34315798390483326,True
+a24_s1_t3_skeleton.mat,24,Sit to stand,S1,3,52,True,0,0.3513704732280648,True
+a24_s1_t4_skeleton.mat,24,Sit to stand,S1,4,48,True,0,0.34981571978136294,True
+a24_s2_t1_skeleton.mat,24,Sit to stand,S2,1,54,True,0,0.29734742532827685,True
+a24_s2_t2_skeleton.mat,24,Sit to stand,S2,2,48,True,0,0.326240057760428,True
+a24_s2_t3_skeleton.mat,24,Sit to stand,S2,3,51,True,0,0.3448650742158225,True
+a24_s2_t4_skeleton.mat,24,Sit to stand,S2,4,47,True,0,0.3587286824991646,True
+a24_s3_t1_skeleton.mat,24,Sit to stand,S3,1,56,True,0,0.3518428085665022,True
+a24_s3_t2_skeleton.mat,24,Sit to stand,S3,2,54,True,0,0.36125231484702536,True
+a24_s3_t3_skeleton.mat,24,Sit to stand,S3,3,55,True,0,0.3839354971331537,True
+a24_s3_t4_skeleton.mat,24,Sit to stand,S3,4,55,True,0,0.36631509925912276,True
+a24_s4_t1_skeleton.mat,24,Sit to stand,S4,1,53,True,0,0.3399199597346752,True
+a24_s4_t2_skeleton.mat,24,Sit to stand,S4,2,55,True,0,0.34608409072336216,True
+a24_s4_t3_skeleton.mat,24,Sit to stand,S4,3,56,True,0,0.3646841700914393,True
+a24_s4_t4_skeleton.mat,24,Sit to stand,S4,4,55,True,0,0.372967306295509,True
+a24_s5_t1_skeleton.mat,24,Sit to stand,S5,1,48,True,0,0.2603794098768525,True
+a24_s5_t2_skeleton.mat,24,Sit to stand,S5,2,52,True,0,0.360625166950279,True
+a24_s5_t3_skeleton.mat,24,Sit to stand,S5,3,50,True,0,0.36850492572465704,True
+a24_s5_t4_skeleton.mat,24,Sit to stand,S5,4,58,True,0,0.3655954279388486,True
+a24_s6_t1_skeleton.mat,24,Sit to stand,S6,1,66,True,0,0.28693653241001915,True
+a24_s6_t2_skeleton.mat,24,Sit to stand,S6,2,69,True,0,0.3828690950984996,True
+a24_s6_t3_skeleton.mat,24,Sit to stand,S6,3,59,True,0,0.39211770830405496,True
+a24_s6_t4_skeleton.mat,24,Sit to stand,S6,4,60,True,0,0.3857794893731565,True
+a24_s7_t1_skeleton.mat,24,Sit to stand,S7,1,54,True,0,0.29286109705391405,True
+a24_s7_t2_skeleton.mat,24,Sit to stand,S7,2,49,True,0,0.3205498196441827,True
+a24_s7_t3_skeleton.mat,24,Sit to stand,S7,3,57,True,0,0.3222433648423488,True
+a24_s7_t4_skeleton.mat,24,Sit to stand,S7,4,56,True,0,0.3120295956892808,True
+a24_s8_t1_skeleton.mat,24,Sit to stand,S8,1,64,True,0,0.2726471948758702,True
+a24_s8_t2_skeleton.mat,24,Sit to stand,S8,2,56,True,0,0.32042311372638005,True
+a24_s8_t3_skeleton.mat,24,Sit to stand,S8,3,54,True,0,0.3326729427248486,True
+a24_s8_t4_skeleton.mat,24,Sit to stand,S8,4,58,True,0,0.329998635232679,True
+a25_s1_t1_skeleton.mat,25,Stand to sit,S1,1,58,True,0,0.36604717848842894,True
+a25_s1_t2_skeleton.mat,25,Stand to sit,S1,2,58,True,0,0.3637056321868313,True
+a25_s1_t3_skeleton.mat,25,Stand to sit,S1,3,58,True,0,0.365804523676449,True
+a25_s1_t4_skeleton.mat,25,Stand to sit,S1,4,57,True,0,0.3592426399359974,True
+a25_s2_t1_skeleton.mat,25,Stand to sit,S2,1,49,True,0,0.3525333401327113,True
+a25_s2_t2_skeleton.mat,25,Stand to sit,S2,2,56,True,0,0.356660385230189,True
+a25_s2_t3_skeleton.mat,25,Stand to sit,S2,3,53,True,0,0.36259269940282757,True
+a25_s2_t4_skeleton.mat,25,Stand to sit,S2,4,46,True,0,0.36195267694756394,True
+a25_s3_t1_skeleton.mat,25,Stand to sit,S3,1,60,True,0,0.35727035996359247,True
+a25_s3_t2_skeleton.mat,25,Stand to sit,S3,2,58,True,0,0.37527163070362846,True
+a25_s3_t3_skeleton.mat,25,Stand to sit,S3,3,63,True,0,0.36380361353210894,True
+a25_s3_t4_skeleton.mat,25,Stand to sit,S3,4,61,True,0,0.36028331317031936,True
+a25_s4_t1_skeleton.mat,25,Stand to sit,S4,1,69,True,0,0.3741200851526286,True
+a25_s4_t2_skeleton.mat,25,Stand to sit,S4,2,68,True,0,0.376462514894231,True
+a25_s4_t3_skeleton.mat,25,Stand to sit,S4,3,59,True,0,0.37541603403199897,True
+a25_s4_t4_skeleton.mat,25,Stand to sit,S4,4,57,True,0,0.37832026149132897,True
+a25_s5_t1_skeleton.mat,25,Stand to sit,S5,1,51,True,0,0.34655237814371087,True
+a25_s5_t2_skeleton.mat,25,Stand to sit,S5,2,58,True,0,0.3696563432494755,True
+a25_s5_t3_skeleton.mat,25,Stand to sit,S5,3,49,True,0,0.37693225330224334,True
+a25_s5_t4_skeleton.mat,25,Stand to sit,S5,4,50,True,0,0.3709385017979909,True
+a25_s6_t1_skeleton.mat,25,Stand to sit,S6,1,59,True,0,0.3885222762426065,True
+a25_s6_t2_skeleton.mat,25,Stand to sit,S6,2,57,True,0,0.40046583835174604,True
+a25_s6_t3_skeleton.mat,25,Stand to sit,S6,3,49,True,0,0.4109278509806266,True
+a25_s6_t4_skeleton.mat,25,Stand to sit,S6,4,70,True,0,0.3950247398558816,True
+a25_s7_t1_skeleton.mat,25,Stand to sit,S7,1,51,True,0,0.33271424236343194,True
+a25_s7_t2_skeleton.mat,25,Stand to sit,S7,2,58,True,0,0.3485493201526565,True
+a25_s7_t3_skeleton.mat,25,Stand to sit,S7,3,55,True,0,0.34383390775061107,True
+a25_s7_t4_skeleton.mat,25,Stand to sit,S7,4,52,True,0,0.34849361596317663,True
+a25_s8_t1_skeleton.mat,25,Stand to sit,S8,1,71,True,0,0.3275191642590475,True
+a25_s8_t2_skeleton.mat,25,Stand to sit,S8,2,56,True,0,0.35883701660549816,True
+a25_s8_t3_skeleton.mat,25,Stand to sit,S8,3,56,True,0,0.377622484879613,True
+a25_s8_t4_skeleton.mat,25,Stand to sit,S8,4,55,True,0,0.3769100913742128,True
+a26_s1_t1_skeleton.mat,26,Lunge,S1,1,75,True,0,0.4014522280195216,True
+a26_s1_t2_skeleton.mat,26,Lunge,S1,2,69,True,0,0.3942500963608026,True
+a26_s1_t3_skeleton.mat,26,Lunge,S1,3,63,True,0,0.40864700768523,True
+a26_s1_t4_skeleton.mat,26,Lunge,S1,4,64,True,0,0.4037569294336526,True
+a26_s2_t1_skeleton.mat,26,Lunge,S2,1,69,True,0,0.4059116120720094,True
+a26_s2_t2_skeleton.mat,26,Lunge,S2,2,69,True,0,0.4078992246746791,True
+a26_s2_t3_skeleton.mat,26,Lunge,S2,3,69,True,0,0.40924036830977495,True
+a26_s2_t4_skeleton.mat,26,Lunge,S2,4,76,True,0,0.4065785022344631,True
+a26_s3_t1_skeleton.mat,26,Lunge,S3,1,82,True,0,0.3787670758355204,True
+a26_s3_t2_skeleton.mat,26,Lunge,S3,2,84,True,0,0.38018257435768654,True
+a26_s3_t3_skeleton.mat,26,Lunge,S3,3,95,True,0,0.37936159675068953,True
+a26_s3_t4_skeleton.mat,26,Lunge,S3,4,79,True,0,0.38219970078606574,True
+a26_s4_t1_skeleton.mat,26,Lunge,S4,1,72,True,0,0.3977607040076632,True
+a26_s4_t2_skeleton.mat,26,Lunge,S4,2,75,True,0,0.39309761246548325,True
+a26_s4_t3_skeleton.mat,26,Lunge,S4,3,72,True,0,0.3874388198832933,True
+a26_s4_t4_skeleton.mat,26,Lunge,S4,4,72,True,0,0.3876914296016222,True
+a26_s5_t1_skeleton.mat,26,Lunge,S5,1,95,True,0,0.41276515649766343,True
+a26_s5_t2_skeleton.mat,26,Lunge,S5,2,102,True,0,0.4188190504428416,True
+a26_s5_t3_skeleton.mat,26,Lunge,S5,3,93,True,0,0.4175492515154948,True
+a26_s5_t4_skeleton.mat,26,Lunge,S5,4,97,True,0,0.42116930035924816,True
+a26_s6_t1_skeleton.mat,26,Lunge,S6,1,94,True,0,0.4397982401687489,True
+a26_s6_t2_skeleton.mat,26,Lunge,S6,2,95,True,0,0.4150268689818934,True
+a26_s6_t3_skeleton.mat,26,Lunge,S6,3,103,True,0,0.42105354069502254,True
+a26_s6_t4_skeleton.mat,26,Lunge,S6,4,98,True,0,0.41740734016795966,True
+a26_s7_t1_skeleton.mat,26,Lunge,S7,1,75,True,0,0.38050746150650283,True
+a26_s7_t2_skeleton.mat,26,Lunge,S7,2,77,True,0,0.3484109644364051,True
+a26_s7_t3_skeleton.mat,26,Lunge,S7,3,69,True,0,0.354957710219493,True
+a26_s7_t4_skeleton.mat,26,Lunge,S7,4,67,True,0,0.35769853834843984,True
+a26_s8_t1_skeleton.mat,26,Lunge,S8,1,87,True,0,0.39464177805419226,True
+a26_s8_t2_skeleton.mat,26,Lunge,S8,2,79,True,0,0.40212293701546886,True
+a26_s8_t3_skeleton.mat,26,Lunge,S8,3,78,True,0,0.40334526461654274,True
+a26_s8_t4_skeleton.mat,26,Lunge,S8,4,71,True,0,0.39344719765195685,True
+a27_s1_t1_skeleton.mat,27,Squat,S1,1,100,True,0,0.4157807432808628,True
+a27_s1_t2_skeleton.mat,27,Squat,S1,2,89,True,0,0.41678745377973214,True
+a27_s1_t3_skeleton.mat,27,Squat,S1,3,89,True,0,0.4144817262682873,True
+a27_s1_t4_skeleton.mat,27,Squat,S1,4,79,True,0,0.414928392096413,True
+a27_s2_t1_skeleton.mat,27,Squat,S2,1,55,True,0,0.40349747294383137,True
+a27_s2_t2_skeleton.mat,27,Squat,S2,2,53,True,0,0.39640967638222613,True
+a27_s2_t3_skeleton.mat,27,Squat,S2,3,52,True,0,0.3869260126849794,True
+a27_s2_t4_skeleton.mat,27,Squat,S2,4,50,True,0,0.3911424360122835,True
+a27_s3_t1_skeleton.mat,27,Squat,S3,1,88,True,0,0.38687086633887235,True
+a27_s3_t2_skeleton.mat,27,Squat,S3,2,93,True,0,0.38942876096644646,True
+a27_s3_t3_skeleton.mat,27,Squat,S3,3,84,True,0,0.39543043483317486,True
+a27_s3_t4_skeleton.mat,27,Squat,S3,4,89,True,0,0.39690900801062257,True
+a27_s4_t1_skeleton.mat,27,Squat,S4,1,65,True,0,0.3929812093505268,True
+a27_s4_t2_skeleton.mat,27,Squat,S4,2,63,True,0,0.38601859424053797,True
+a27_s4_t3_skeleton.mat,27,Squat,S4,3,64,True,0,0.3888031516183932,True
+a27_s4_t4_skeleton.mat,27,Squat,S4,4,65,True,0,0.39802746316475623,True
+a27_s5_t1_skeleton.mat,27,Squat,S5,1,86,True,0,0.4173911252907833,True
+a27_s5_t2_skeleton.mat,27,Squat,S5,2,94,True,0,0.4292725620351001,True
+a27_s5_t3_skeleton.mat,27,Squat,S5,3,97,True,0,0.4236402705869835,True
+a27_s5_t4_skeleton.mat,27,Squat,S5,4,87,True,0,0.4177876547639767,True
+a27_s6_t1_skeleton.mat,27,Squat,S6,1,110,True,0,0.4531208462884073,True
+a27_s6_t2_skeleton.mat,27,Squat,S6,2,116,True,0,0.46665405861545317,True
+a27_s6_t3_skeleton.mat,27,Squat,S6,3,115,True,0,0.4638270522705716,True
+a27_s6_t4_skeleton.mat,27,Squat,S6,4,114,True,0,0.4607734903421762,True
+a27_s7_t1_skeleton.mat,27,Squat,S7,1,66,True,0,0.38360184145530407,True
+a27_s7_t2_skeleton.mat,27,Squat,S7,2,67,True,0,0.37982419123452926,True
+a27_s7_t3_skeleton.mat,27,Squat,S7,3,58,True,0,0.3776841627784092,True
+a27_s7_t4_skeleton.mat,27,Squat,S7,4,72,True,0,0.377288261668027,True
+a27_s8_t1_skeleton.mat,27,Squat,S8,1,101,True,0,0.4101625598674331,True
+a27_s8_t2_skeleton.mat,27,Squat,S8,2,99,True,0,0.4076945955882056,True
+a27_s8_t3_skeleton.mat,27,Squat,S8,3,95,True,0,0.41269997997354874,True
+a2_s1_t1_skeleton.mat,2,Swipe right,S1,1,61,True,0,0.40700162241714377,True
+a2_s1_t2_skeleton.mat,2,Swipe right,S1,2,54,True,0,0.4042457748788405,True
+a2_s1_t3_skeleton.mat,2,Swipe right,S1,3,54,True,0,0.40599020939741737,True
+a2_s1_t4_skeleton.mat,2,Swipe right,S1,4,55,True,0,0.4055517588676313,True
+a2_s2_t1_skeleton.mat,2,Swipe right,S2,1,60,True,0,0.4155283436679958,True
+a2_s2_t2_skeleton.mat,2,Swipe right,S2,2,52,True,0,0.41521263471153147,True
+a2_s2_t3_skeleton.mat,2,Swipe right,S2,3,58,True,0,0.4120511719630028,True
+a2_s2_t4_skeleton.mat,2,Swipe right,S2,4,62,True,0,0.41491254496261676,True
+a2_s3_t1_skeleton.mat,2,Swipe right,S3,1,59,True,0,0.39141652044641606,True
+a2_s3_t2_skeleton.mat,2,Swipe right,S3,2,56,True,0,0.3908600619987351,True
+a2_s3_t3_skeleton.mat,2,Swipe right,S3,3,60,True,0,0.3861422175673744,True
+a2_s3_t4_skeleton.mat,2,Swipe right,S3,4,57,True,0,0.38882879390527225,True
+a2_s4_t1_skeleton.mat,2,Swipe right,S4,1,50,True,0,0.3836983252997228,True
+a2_s4_t2_skeleton.mat,2,Swipe right,S4,2,52,True,0,0.3848882354187828,True
+a2_s4_t3_skeleton.mat,2,Swipe right,S4,3,58,True,0,0.38767567315886814,True
+a2_s4_t4_skeleton.mat,2,Swipe right,S4,4,63,True,0,0.38926379165487196,True
+a2_s5_t1_skeleton.mat,2,Swipe right,S5,1,55,True,0,0.41115188303275607,True
+a2_s5_t2_skeleton.mat,2,Swipe right,S5,2,68,True,0,0.41310820547917415,True
+a2_s5_t3_skeleton.mat,2,Swipe right,S5,3,71,True,0,0.41661047571403464,True
+a2_s5_t4_skeleton.mat,2,Swipe right,S5,4,70,True,0,0.41465646519151056,True
+a2_s6_t1_skeleton.mat,2,Swipe right,S6,1,70,True,0,0.45506374728821153,True
+a2_s6_t2_skeleton.mat,2,Swipe right,S6,2,75,True,0,0.4543954809675444,True
+a2_s6_t3_skeleton.mat,2,Swipe right,S6,3,74,True,0,0.4547721986143618,True
+a2_s6_t4_skeleton.mat,2,Swipe right,S6,4,69,True,0,0.45727777934950864,True
+a2_s7_t1_skeleton.mat,2,Swipe right,S7,1,51,True,0,0.3885710007075045,True
+a2_s7_t2_skeleton.mat,2,Swipe right,S7,2,53,True,0,0.38961225997566906,True
+a2_s7_t3_skeleton.mat,2,Swipe right,S7,3,55,True,0,0.38735271158731216,True
+a2_s7_t4_skeleton.mat,2,Swipe right,S7,4,47,True,0,0.3920441446182167,True
+a2_s8_t1_skeleton.mat,2,Swipe right,S8,1,67,True,0,0.4128771579687869,True
+a2_s8_t2_skeleton.mat,2,Swipe right,S8,2,58,True,0,0.41299891670978633,True
+a2_s8_t3_skeleton.mat,2,Swipe right,S8,3,58,True,0,0.41124226046054035,True
+a2_s8_t4_skeleton.mat,2,Swipe right,S8,4,56,True,0,0.4096792250687501,True
+a3_s1_t1_skeleton.mat,3,Wave,S1,1,72,True,0,0.4126124483741615,True
+a3_s1_t2_skeleton.mat,3,Wave,S1,2,72,True,0,0.41219240410061597,True
+a3_s1_t3_skeleton.mat,3,Wave,S1,3,69,True,0,0.4118527302962246,True
+a3_s1_t4_skeleton.mat,3,Wave,S1,4,64,True,0,0.4125339612701141,True
+a3_s2_t1_skeleton.mat,3,Wave,S2,1,67,True,0,0.4150579780283642,True
+a3_s2_t2_skeleton.mat,3,Wave,S2,2,63,True,0,0.4103191519336023,True
+a3_s2_t3_skeleton.mat,3,Wave,S2,3,68,True,0,0.4108258898854715,True
+a3_s2_t4_skeleton.mat,3,Wave,S2,4,70,True,0,0.41205575666371386,True
+a3_s3_t1_skeleton.mat,3,Wave,S3,1,67,True,0,0.3953057392290173,True
+a3_s3_t2_skeleton.mat,3,Wave,S3,2,66,True,0,0.38936898009718685,True
+a3_s3_t3_skeleton.mat,3,Wave,S3,3,57,True,0,0.39156310320183496,True
+a3_s3_t4_skeleton.mat,3,Wave,S3,4,63,True,0,0.3933824814509071,True
+a3_s4_t1_skeleton.mat,3,Wave,S4,1,61,True,0,0.39268811612194354,True
+a3_s4_t2_skeleton.mat,3,Wave,S4,2,62,True,0,0.3929036252967756,True
+a3_s4_t3_skeleton.mat,3,Wave,S4,3,66,True,0,0.3898310407638791,True
+a3_s4_t4_skeleton.mat,3,Wave,S4,4,57,True,0,0.38905623855633054,True
+a3_s5_t1_skeleton.mat,3,Wave,S5,1,61,True,0,0.4138057799837343,True
+a3_s5_t2_skeleton.mat,3,Wave,S5,2,79,True,0,0.409069025753069,True
+a3_s5_t3_skeleton.mat,3,Wave,S5,3,72,True,0,0.41335479779803874,True
+a3_s5_t4_skeleton.mat,3,Wave,S5,4,74,True,0,0.4109790454396099,True
+a3_s6_t1_skeleton.mat,3,Wave,S6,1,80,True,0,0.45863880215573677,True
+a3_s6_t2_skeleton.mat,3,Wave,S6,2,75,True,0,0.4619155821092525,True
+a3_s6_t3_skeleton.mat,3,Wave,S6,3,81,True,0,0.46220403259040477,True
+a3_s6_t4_skeleton.mat,3,Wave,S6,4,70,True,0,0.4627426950158685,True
+a3_s7_t1_skeleton.mat,3,Wave,S7,1,50,True,0,0.3919654784315319,True
+a3_s7_t2_skeleton.mat,3,Wave,S7,2,60,True,0,0.3925556869330843,True
+a3_s7_t3_skeleton.mat,3,Wave,S7,3,49,True,0,0.3885397836953466,True
+a3_s7_t4_skeleton.mat,3,Wave,S7,4,64,True,0,0.38939486265805023,True
+a3_s8_t1_skeleton.mat,3,Wave,S8,1,60,True,0,0.41626357405472514,True
+a3_s8_t2_skeleton.mat,3,Wave,S8,2,58,True,0,0.413380943796779,True
+a3_s8_t3_skeleton.mat,3,Wave,S8,3,55,True,0,0.4216495263109796,True
+a3_s8_t4_skeleton.mat,3,Wave,S8,4,63,True,0,0.4162416544456196,True
+a4_s1_t1_skeleton.mat,4,Clap,S1,1,59,True,0,0.40825166702352794,True
+a4_s1_t2_skeleton.mat,4,Clap,S1,2,54,True,0,0.4106488603446727,True
+a4_s1_t3_skeleton.mat,4,Clap,S1,3,65,True,0,0.41173521729949486,True
+a4_s1_t4_skeleton.mat,4,Clap,S1,4,62,True,0,0.40288965373783614,True
+a4_s2_t1_skeleton.mat,4,Clap,S2,1,54,True,0,0.4172364206532887,True
+a4_s2_t2_skeleton.mat,4,Clap,S2,2,53,True,0,0.4104668742608345,True
+a4_s2_t3_skeleton.mat,4,Clap,S2,3,59,True,0,0.41719193803644056,True
+a4_s2_t4_skeleton.mat,4,Clap,S2,4,56,True,0,0.4099478393425473,True
+a4_s3_t1_skeleton.mat,4,Clap,S3,1,54,True,0,0.3958727243212844,True
+a4_s3_t2_skeleton.mat,4,Clap,S3,2,55,True,0,0.3943642243377108,True
+a4_s3_t3_skeleton.mat,4,Clap,S3,3,63,True,0,0.3935943131868049,True
+a4_s3_t4_skeleton.mat,4,Clap,S3,4,64,True,0,0.39474748526399883,True
+a4_s4_t1_skeleton.mat,4,Clap,S4,1,58,True,0,0.39460000383345195,True
+a4_s4_t2_skeleton.mat,4,Clap,S4,2,62,True,0,0.39535285990346086,True
+a4_s4_t3_skeleton.mat,4,Clap,S4,3,54,True,0,0.39216001037592385,True
+a4_s4_t4_skeleton.mat,4,Clap,S4,4,56,True,0,0.3974157475545308,True
+a4_s5_t1_skeleton.mat,4,Clap,S5,1,53,True,0,0.4140083371800382,True
+a4_s5_t2_skeleton.mat,4,Clap,S5,2,51,True,0,0.4186411762793705,True
+a4_s5_t3_skeleton.mat,4,Clap,S5,3,63,True,0,0.4168955076596614,True
+a4_s5_t4_skeleton.mat,4,Clap,S5,4,64,True,0,0.41673130624525456,True
+a4_s6_t1_skeleton.mat,4,Clap,S6,1,78,True,0,0.4547590938453415,True
+a4_s6_t2_skeleton.mat,4,Clap,S6,2,75,True,0,0.45962073126065633,True
+a4_s6_t3_skeleton.mat,4,Clap,S6,3,74,True,0,0.46045568151217964,True
+a4_s6_t4_skeleton.mat,4,Clap,S6,4,68,True,0,0.4594070793399927,True
+a4_s7_t1_skeleton.mat,4,Clap,S7,1,62,True,0,0.3848682378143419,True
+a4_s7_t2_skeleton.mat,4,Clap,S7,2,67,True,0,0.38503455422538924,True
+a4_s7_t3_skeleton.mat,4,Clap,S7,3,65,True,0,0.3908611044560005,True
+a4_s7_t4_skeleton.mat,4,Clap,S7,4,62,True,0,0.38969775444212174,True
+a4_s8_t1_skeleton.mat,4,Clap,S8,1,70,True,0,0.40283211750040093,True
+a4_s8_t2_skeleton.mat,4,Clap,S8,2,74,True,0,0.4030981092484059,True
+a4_s8_t3_skeleton.mat,4,Clap,S8,3,58,True,0,0.4038940444947541,True
+a4_s8_t4_skeleton.mat,4,Clap,S8,4,67,True,0,0.40047232671349536,True
+a5_s1_t1_skeleton.mat,5,Throw,S1,1,68,True,0,0.4136341128648433,True
+a5_s1_t2_skeleton.mat,5,Throw,S1,2,61,True,0,0.41469071520191153,True
+a5_s1_t3_skeleton.mat,5,Throw,S1,3,64,True,0,0.4159961077435296,True
+a5_s1_t4_skeleton.mat,5,Throw,S1,4,63,True,0,0.41726983147314933,True
+a5_s2_t1_skeleton.mat,5,Throw,S2,1,53,True,0,0.4165883815984785,True
+a5_s2_t2_skeleton.mat,5,Throw,S2,2,53,True,0,0.41101067901152427,True
+a5_s2_t3_skeleton.mat,5,Throw,S2,3,56,True,0,0.4123898839899217,True
+a5_s2_t4_skeleton.mat,5,Throw,S2,4,56,True,0,0.41350110229593307,True
+a5_s3_t1_skeleton.mat,5,Throw,S3,1,53,True,0,0.3883217995871194,True
+a5_s3_t2_skeleton.mat,5,Throw,S3,2,64,True,0,0.38525456414002435,True
+a5_s3_t3_skeleton.mat,5,Throw,S3,3,54,True,0,0.3882999284600637,True
+a5_s3_t4_skeleton.mat,5,Throw,S3,4,59,True,0,0.388707674589124,True
+a5_s4_t1_skeleton.mat,5,Throw,S4,1,47,True,0,0.3926226720264466,True
+a5_s4_t2_skeleton.mat,5,Throw,S4,2,50,True,0,0.3938131760210887,True
+a5_s4_t3_skeleton.mat,5,Throw,S4,3,51,True,0,0.39048322758168197,True
+a5_s4_t4_skeleton.mat,5,Throw,S4,4,44,True,0,0.39001773275410884,True
+a5_s5_t1_skeleton.mat,5,Throw,S5,1,59,True,0,0.4171123315070217,True
+a5_s5_t2_skeleton.mat,5,Throw,S5,2,55,True,0,0.4156710741777433,True
+a5_s5_t3_skeleton.mat,5,Throw,S5,3,67,True,0,0.4200910316132056,True
+a5_s5_t4_skeleton.mat,5,Throw,S5,4,62,True,0,0.4239069375763796,True
+a5_s6_t1_skeleton.mat,5,Throw,S6,1,70,True,0,0.45929379809475157,True
+a5_s6_t2_skeleton.mat,5,Throw,S6,2,64,True,0,0.46809494591031475,True
+a5_s6_t3_skeleton.mat,5,Throw,S6,3,68,True,0,0.4664232173740263,True
+a5_s6_t4_skeleton.mat,5,Throw,S6,4,63,True,0,0.4641550653861366,True
+a5_s7_t1_skeleton.mat,5,Throw,S7,1,58,True,0,0.38931434893105,True
+a5_s7_t2_skeleton.mat,5,Throw,S7,2,59,True,0,0.3906268484921446,True
+a5_s7_t3_skeleton.mat,5,Throw,S7,3,69,True,0,0.39080703371505177,True
+a5_s7_t4_skeleton.mat,5,Throw,S7,4,64,True,0,0.3897219894125793,True
+a5_s8_t1_skeleton.mat,5,Throw,S8,1,61,True,0,0.4113832527257341,True
+a5_s8_t2_skeleton.mat,5,Throw,S8,2,60,True,0,0.41048679968713264,True
+a5_s8_t3_skeleton.mat,5,Throw,S8,3,56,True,0,0.4096364667825608,True
+a5_s8_t4_skeleton.mat,5,Throw,S8,4,50,True,0,0.4075629551611535,True
+a6_s1_t1_skeleton.mat,6,Arm cross,S1,1,68,True,0,0.4130521960401507,True
+a6_s1_t2_skeleton.mat,6,Arm cross,S1,2,81,True,0,0.4088393428392161,True
+a6_s1_t3_skeleton.mat,6,Arm cross,S1,3,86,True,0,0.42077860872849104,True
+a6_s1_t4_skeleton.mat,6,Arm cross,S1,4,78,True,0,0.416328617205481,True
+a6_s2_t1_skeleton.mat,6,Arm cross,S2,1,57,True,0,0.4172903338436739,True
+a6_s2_t2_skeleton.mat,6,Arm cross,S2,2,52,True,0,0.4278051828362279,True
+a6_s2_t3_skeleton.mat,6,Arm cross,S2,3,55,True,0,0.41548181857839533,True
+a6_s2_t4_skeleton.mat,6,Arm cross,S2,4,54,True,0,0.4163125784161775,True
+a6_s3_t1_skeleton.mat,6,Arm cross,S3,1,59,True,0,0.39262946833843737,True
+a6_s3_t2_skeleton.mat,6,Arm cross,S3,2,56,True,0,0.3924482664012474,True
+a6_s3_t3_skeleton.mat,6,Arm cross,S3,3,58,True,0,0.39204283469974743,True
+a6_s3_t4_skeleton.mat,6,Arm cross,S3,4,59,True,0,0.3960637415266496,True
+a6_s4_t1_skeleton.mat,6,Arm cross,S4,1,61,True,0,0.39258034192618524,True
+a6_s4_t2_skeleton.mat,6,Arm cross,S4,2,55,True,0,0.3890806051166469,True
+a6_s4_t3_skeleton.mat,6,Arm cross,S4,3,56,True,0,0.38620991740003485,True
+a6_s4_t4_skeleton.mat,6,Arm cross,S4,4,54,True,0,0.3864757701653811,True
+a6_s5_t1_skeleton.mat,6,Arm cross,S5,1,71,True,0,0.41588937367925904,True
+a6_s5_t2_skeleton.mat,6,Arm cross,S5,2,74,True,0,0.41362696405082283,True
+a6_s5_t3_skeleton.mat,6,Arm cross,S5,3,62,True,0,0.4148037311931623,True
+a6_s5_t4_skeleton.mat,6,Arm cross,S5,4,66,True,0,0.4113971627303844,True
+a6_s6_t1_skeleton.mat,6,Arm cross,S6,1,70,True,0,0.4640014782955156,True
+a6_s6_t2_skeleton.mat,6,Arm cross,S6,2,73,True,0,0.4632573977906542,True
+a6_s6_t3_skeleton.mat,6,Arm cross,S6,3,80,True,0,0.4654866499515947,True
+a6_s6_t4_skeleton.mat,6,Arm cross,S6,4,78,True,0,0.46216048615548716,True
+a6_s7_t1_skeleton.mat,6,Arm cross,S7,1,63,True,0,0.3927423431018703,True
+a6_s7_t2_skeleton.mat,6,Arm cross,S7,2,64,True,0,0.39757839896970193,True
+a6_s7_t3_skeleton.mat,6,Arm cross,S7,3,66,True,0,0.3929437655214241,True
+a6_s7_t4_skeleton.mat,6,Arm cross,S7,4,72,True,0,0.39266610446826156,True
+a6_s8_t1_skeleton.mat,6,Arm cross,S8,1,56,True,0,0.4024452512511876,True
+a6_s8_t2_skeleton.mat,6,Arm cross,S8,2,62,True,0,0.40325929952720263,True
+a6_s8_t3_skeleton.mat,6,Arm cross,S8,3,50,True,0,0.4029495858193263,True
+a6_s8_t4_skeleton.mat,6,Arm cross,S8,4,60,True,0,0.40359121688624855,True
+a7_s1_t1_skeleton.mat,7,Basketball shoot,S1,1,66,True,0,0.41790820938372153,True
+a7_s1_t2_skeleton.mat,7,Basketball shoot,S1,2,67,True,0,0.4202834468007489,True
+a7_s1_t3_skeleton.mat,7,Basketball shoot,S1,3,62,True,0,0.41759048078129707,True
+a7_s1_t4_skeleton.mat,7,Basketball shoot,S1,4,54,True,0,0.41812818079213987,True
+a7_s2_t1_skeleton.mat,7,Basketball shoot,S2,1,52,True,0,0.4171908002236805,True
+a7_s2_t2_skeleton.mat,7,Basketball shoot,S2,2,51,True,0,0.4081704969834499,True
+a7_s2_t3_skeleton.mat,7,Basketball shoot,S2,3,55,True,0,0.41839147103187707,True
+a7_s2_t4_skeleton.mat,7,Basketball shoot,S2,4,51,True,0,0.4123239958634511,True
+a7_s3_t1_skeleton.mat,7,Basketball shoot,S3,1,57,True,0,0.38758609436559016,True
+a7_s3_t2_skeleton.mat,7,Basketball shoot,S3,2,57,True,0,0.3867548614977512,True
+a7_s3_t3_skeleton.mat,7,Basketball shoot,S3,3,59,True,0,0.3847341676441326,True
+a7_s3_t4_skeleton.mat,7,Basketball shoot,S3,4,59,True,0,0.3887101360898715,True
+a7_s4_t1_skeleton.mat,7,Basketball shoot,S4,1,50,True,0,0.3893440672330194,True
+a7_s4_t2_skeleton.mat,7,Basketball shoot,S4,2,52,True,0,0.38812266564973463,True
+a7_s4_t3_skeleton.mat,7,Basketball shoot,S4,3,48,True,0,0.3927605480164562,True
+a7_s4_t4_skeleton.mat,7,Basketball shoot,S4,4,46,True,0,0.3896461470902135,True
+a7_s5_t1_skeleton.mat,7,Basketball shoot,S5,1,60,True,0,0.4254129772775763,True
+a7_s5_t2_skeleton.mat,7,Basketball shoot,S5,2,63,True,0,0.43165930537329394,True
+a7_s5_t3_skeleton.mat,7,Basketball shoot,S5,3,69,True,0,0.4274248099242109,True
+a7_s5_t4_skeleton.mat,7,Basketball shoot,S5,4,71,True,0,0.42594438255930506,True
+a7_s6_t1_skeleton.mat,7,Basketball shoot,S6,1,62,True,0,0.46440756330552524,True
+a7_s6_t2_skeleton.mat,7,Basketball shoot,S6,2,64,True,0,0.46171898949375983,True
+a7_s6_t3_skeleton.mat,7,Basketball shoot,S6,3,60,True,0,0.4637559984598068,True
+a7_s6_t4_skeleton.mat,7,Basketball shoot,S6,4,56,True,0,0.46960611377120975,True
+a7_s7_t1_skeleton.mat,7,Basketball shoot,S7,1,67,True,0,0.38575280197218365,True
+a7_s7_t2_skeleton.mat,7,Basketball shoot,S7,2,74,True,0,0.386223048487584,True
+a7_s7_t3_skeleton.mat,7,Basketball shoot,S7,3,81,True,0,0.3878525950949772,True
+a7_s7_t4_skeleton.mat,7,Basketball shoot,S7,4,71,True,0,0.39029272167184814,True
+a7_s8_t1_skeleton.mat,7,Basketball shoot,S8,1,65,True,0,0.4034602517085951,True
+a7_s8_t2_skeleton.mat,7,Basketball shoot,S8,2,62,True,0,0.40499558813712666,True
+a7_s8_t3_skeleton.mat,7,Basketball shoot,S8,3,55,True,0,0.40449080439933965,True
+a7_s8_t4_skeleton.mat,7,Basketball shoot,S8,4,57,True,0,0.40179281024696295,True
+a8_s1_t1_skeleton.mat,8,Draw X,S1,1,61,True,0,0.41355452961933004,True
+a8_s1_t2_skeleton.mat,8,Draw X,S1,2,61,True,0,0.41229491198475016,True
+a8_s1_t3_skeleton.mat,8,Draw X,S1,3,67,True,0,0.41188937751612753,True
+a8_s2_t1_skeleton.mat,8,Draw X,S2,1,70,True,0,0.41599407632494295,True
+a8_s2_t2_skeleton.mat,8,Draw X,S2,2,64,True,0,0.41114619071796715,True
+a8_s2_t3_skeleton.mat,8,Draw X,S2,3,61,True,0,0.41108789088439424,True
+a8_s2_t4_skeleton.mat,8,Draw X,S2,4,68,True,0,0.41610738038034756,True
+a8_s3_t1_skeleton.mat,8,Draw X,S3,1,63,True,0,0.3930541380834259,True
+a8_s3_t2_skeleton.mat,8,Draw X,S3,2,59,True,0,0.39394637419957296,True
+a8_s3_t3_skeleton.mat,8,Draw X,S3,3,55,True,0,0.39345968594581765,True
+a8_s3_t4_skeleton.mat,8,Draw X,S3,4,61,True,0,0.3935802227898006,True
+a8_s4_t1_skeleton.mat,8,Draw X,S4,1,62,True,0,0.38605043496960423,True
+a8_s4_t2_skeleton.mat,8,Draw X,S4,2,69,True,0,0.3894071328681953,True
+a8_s4_t3_skeleton.mat,8,Draw X,S4,3,61,True,0,0.3918894110747903,True
+a8_s4_t4_skeleton.mat,8,Draw X,S4,4,63,True,0,0.38580888066576297,True
+a8_s5_t1_skeleton.mat,8,Draw X,S5,1,65,True,0,0.41976136838630634,True
+a8_s5_t2_skeleton.mat,8,Draw X,S5,2,61,True,0,0.42116817954716396,True
+a8_s5_t3_skeleton.mat,8,Draw X,S5,3,56,True,0,0.4179237624940887,True
+a8_s5_t4_skeleton.mat,8,Draw X,S5,4,67,True,0,0.4198008606241528,True
+a8_s6_t1_skeleton.mat,8,Draw X,S6,1,79,True,0,0.4529238434447304,True
+a8_s6_t2_skeleton.mat,8,Draw X,S6,2,81,True,0,0.45673266706121085,True
+a8_s6_t3_skeleton.mat,8,Draw X,S6,3,78,True,0,0.45803127241345,True
+a8_s6_t4_skeleton.mat,8,Draw X,S6,4,66,True,0,0.4608528475942405,True
+a8_s7_t1_skeleton.mat,8,Draw X,S7,1,62,True,0,0.397299395316041,True
+a8_s7_t2_skeleton.mat,8,Draw X,S7,2,67,True,0,0.3992401510198548,True
+a8_s7_t3_skeleton.mat,8,Draw X,S7,3,70,True,0,0.3936573832259973,True
+a8_s7_t4_skeleton.mat,8,Draw X,S7,4,70,True,0,0.3968554785746248,True
+a8_s8_t1_skeleton.mat,8,Draw X,S8,1,73,True,0,0.40170538263221095,True
+a8_s8_t2_skeleton.mat,8,Draw X,S8,2,71,True,0,0.4065827567136717,True
+a8_s8_t3_skeleton.mat,8,Draw X,S8,3,66,True,0,0.4082993182178167,True
+a8_s8_t4_skeleton.mat,8,Draw X,S8,4,70,True,0,0.4061067141372492,True
+a9_s1_t1_skeleton.mat,9,Draw circle clockwise,S1,1,81,True,0,0.41439747198413046,True
+a9_s1_t2_skeleton.mat,9,Draw circle clockwise,S1,2,77,True,0,0.4174662523681935,True
+a9_s1_t3_skeleton.mat,9,Draw circle clockwise,S1,3,78,True,0,0.4162084480275583,True
+a9_s1_t4_skeleton.mat,9,Draw circle clockwise,S1,4,67,True,0,0.4156624241239896,True
+a9_s2_t1_skeleton.mat,9,Draw circle clockwise,S2,1,77,True,0,0.41594954553156877,True
+a9_s2_t2_skeleton.mat,9,Draw circle clockwise,S2,2,71,True,0,0.4104639294953034,True
+a9_s2_t3_skeleton.mat,9,Draw circle clockwise,S2,3,72,True,0,0.4168790796754114,True
+a9_s2_t4_skeleton.mat,9,Draw circle clockwise,S2,4,66,True,0,0.4144735184618489,True
+a9_s3_t1_skeleton.mat,9,Draw circle clockwise,S3,1,74,True,0,0.3915829080093719,True
+a9_s3_t2_skeleton.mat,9,Draw circle clockwise,S3,2,78,True,0,0.38981579993367516,True
+a9_s3_t3_skeleton.mat,9,Draw circle clockwise,S3,3,78,True,0,0.3898347570183386,True
+a9_s3_t4_skeleton.mat,9,Draw circle clockwise,S3,4,81,True,0,0.38868158956666654,True
+a9_s4_t1_skeleton.mat,9,Draw circle clockwise,S4,1,76,True,0,0.3898175871399402,True
+a9_s4_t2_skeleton.mat,9,Draw circle clockwise,S4,2,68,True,0,0.3942873210840997,True
+a9_s4_t3_skeleton.mat,9,Draw circle clockwise,S4,3,66,True,0,0.39164393479094467,True
+a9_s4_t4_skeleton.mat,9,Draw circle clockwise,S4,4,68,True,0,0.39266825878379863,True
+a9_s5_t1_skeleton.mat,9,Draw circle clockwise,S5,1,69,True,0,0.42087123586094205,True
+a9_s5_t2_skeleton.mat,9,Draw circle clockwise,S5,2,69,True,0,0.41983930826585597,True
+a9_s5_t3_skeleton.mat,9,Draw circle clockwise,S5,3,84,True,0,0.42038577368184715,True
+a9_s5_t4_skeleton.mat,9,Draw circle clockwise,S5,4,87,True,0,0.42110430856565634,True
+a9_s6_t1_skeleton.mat,9,Draw circle clockwise,S6,1,89,True,0,0.4553987074525492,True
+a9_s6_t2_skeleton.mat,9,Draw circle clockwise,S6,2,87,True,0,0.4575356852805797,True
+a9_s6_t3_skeleton.mat,9,Draw circle clockwise,S6,3,95,True,0,0.45755471086103483,True
+a9_s6_t4_skeleton.mat,9,Draw circle clockwise,S6,4,89,True,0,0.46073943701805276,True
+a9_s7_t1_skeleton.mat,9,Draw circle clockwise,S7,1,78,True,0,0.3908193677530274,True
+a9_s7_t2_skeleton.mat,9,Draw circle clockwise,S7,2,79,True,0,0.39222639848296004,True
+a9_s7_t3_skeleton.mat,9,Draw circle clockwise,S7,3,73,True,0,0.3891361117029068,True
+a9_s7_t4_skeleton.mat,9,Draw circle clockwise,S7,4,74,True,0,0.392981070536742,True
+a9_s8_t1_skeleton.mat,9,Draw circle clockwise,S8,1,67,True,0,0.4121614670915332,True
+a9_s8_t2_skeleton.mat,9,Draw circle clockwise,S8,2,66,True,0,0.4119240690122055,True
+a9_s8_t3_skeleton.mat,9,Draw circle clockwise,S8,3,68,True,0,0.4097038486666247,True
+a9_s8_t4_skeleton.mat,9,Draw circle clockwise,S8,4,66,True,0,0.40862771546606114,True

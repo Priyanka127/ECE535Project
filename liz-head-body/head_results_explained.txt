@@ -1,0 +1,25 @@
+PRELIMINARY RESULTS — ECE 535 — 2026-11-17
+
+Question: Can head-movement features identify one of 20 enrolled participants across two tasks?
+Primary evaluation: train on Session3 SCWT recordings; test on separate Session3 MA recordings.
+Each recording contributes its first 100 seconds as twenty non-overlapping 5-second windows.
+Training: 20 recordings / 400 windows. Testing: 20 different recordings / 400 windows.
+Model: random forest, 300 trees, minimum leaf size 2, seed 535. No test-set parameter search.
+Predictors: 18 translation-invariant summaries of head position variability, speed, and acceleration.
+
+Primary accuracy: 13.75%
+Primary balanced accuracy: 13.75%
+Primary macro-F1: 0.1009
+Uniform chance accuracy: 5.00%
+Participants with at least one correctly identified test window: 7/20
+Correct test windows: 55/400; success varies substantially by person.
+
+Interpretation: This is a small, closed-set cross-task experiment on 20 known participants.
+It does not establish cross-day, cross-device, or unseen-person identification.
+Windows within each recording are correlated; 400 windows are not 400 independent people.
+No window-level confidence interval or significance claim is made.
+Absolute-position results are exploratory and may reflect pose, placement, or environment.
+Other cohorts have one recording per identity and are excluded from this separate-recording test.
+The source study concerns stress assessment; this identification experiment is a new project baseline,
+not a reproduction of published identification results. Phase labels are not predictors.
+Body/eye/hand signals are not included. Compare modalities only with a compatible evaluation protocol.

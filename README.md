@@ -1,3 +1,7 @@
+## Mixed reality project materials
+
+[Liz’s head and body movement handoff](liz-head-body/README.md) includes results tables, figures with captions, dataset citations, methods, splits, and limitations. The saved runs remain preliminary.
+
 1. Motivation
 
 Many embedded devices work together as part of a larger network, such as smart homes, autonomous vehicles, and agricultural monitoring systems. For these systems to work correctly, the devices need to have accurate and synchronized clocks.

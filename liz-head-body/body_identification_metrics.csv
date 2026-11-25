@@ -1,0 +1,7 @@
+protocol,feature_set,participants,train_recordings,test_recordings,accuracy,balanced_accuracy,macro_f1,uniform_chance
+Held-out trial 4 (primary),Head relative to pelvis,8,648,213,0.7746478873239436,0.774928774928775,0.7770660259332534,0.125
+Held-out trial 4 (primary),Full body pose + movement,8,648,213,1.0,1.0,1.0,0.125
+Held-out trial 4 (primary),Full body movement only,8,648,213,0.9295774647887324,0.9291310541310541,0.930190513153559,0.125
+Held-out actions 22–27 (exploratory),Head relative to pelvis,8,671,190,0.21578947368421053,0.21490036231884058,0.18084198330339968,0.125
+Held-out actions 22–27 (exploratory),Full body pose + movement,8,671,190,0.4421052631578947,0.4438405797101449,0.43880618612241656,0.125
+Held-out actions 22–27 (exploratory),Full body movement only,8,671,190,0.16842105263157894,0.17142210144927536,0.11584258268250554,0.125

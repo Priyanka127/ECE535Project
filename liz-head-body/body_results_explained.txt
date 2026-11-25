@@ -1,0 +1,32 @@
+UTD-MHAD FULL-BODY EXTENSION — PRELIMINARY — 2026-11-18
+
+Data: 861 skeleton recordings, 8 participants, 27 actions, 20 tracked joints.
+Source: https://personal.utdallas.edu/~kehtar/UTD-MAD/Skeleton.zip
+Primary split: trials 1–3 train (648 recordings), trial 4 test (213 recordings).
+Each complete recording is one example and receives one identity prediction.
+Features are pelvis-centered and divided by that recording's median shoulder-center-to-pelvis length.
+Fixed random forest: 300 trees, minimum leaf size 2, seed 535. No test-set tuning.
+
+Primary test, same eight identities and same recordings for all conditions:
+Head relative to pelvis — balanced accuracy: 77.49%
+Full body pose + movement — balanced accuracy: 100.00%
+Full body movement only — balanced accuracy: 92.91%
+Full body pose + movement — raw accuracy: 100.00%; macro-F1: 1.0000
+Uniform eight-class chance: 12.50%.
+Post-hoc relative-bone-length-only diagnostic balanced accuracy: 93.02%.
+All 861 numerical sequences were distinct (no exact recording duplicates).
+
+The different-action result is an exploratory transfer test, not an independent replication.
+The feature sets have different information and dimensions; this is an available-information comparison,
+not a capacity-matched proof that a sensor or joint set is superior.
+Pose descriptors retain relative proportions/posture; movement-only descriptors reduce static information,
+but do not remove all body-shape, orientation, task or capture-context effects.
+Relative bone lengths alone predict identity well here, so the high main score is not evidence of a purely behavioral signature.
+Trial separation does not establish different-day, different-camera or unseen-person performance.
+The original dataset was designed for action recognition; this is a new participant-identification baseline.
+It is Kinect laboratory skeleton data, not egocentric HMD full-body tracking.
+Roma Tre head results use different people, tasks, class counts and window-level scoring.
+Do not merge identities across datasets or interpret their raw accuracy difference as a body-versus-head effect.
+This is joint-coordinate data; no RGB videos or depth images were downloaded.
+
+Suggested report scope: a head-movement pilot on Roma Tre plus a separate full-body skeleton pilot on UTD-MHAD.
